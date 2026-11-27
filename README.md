@@ -19,6 +19,12 @@ it into your RSS reader.
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 ```
 
+<h2><img src="images/computer-programming.png" width="28" align="texttop" /> &nbsp;Jdonszelmann Details Optimization of Rustc&#x27;s Next Trait Solver</h2>
+<a name="story-28594"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2Ff4adf7fd0e3f.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Rust compiler developer Jdonszelmann breaks down the fundamentals of Rust's trait solver subsystem, detailing the performance challenges that blocked the stabilization of the next-generation solver ahead of its integration into Rust 1.102.0. Drawing from first principles, the analysis explains how trait systems function similarly to Prolog-like logic solvers, handling recursive queries, where bounds, and associated types.</p><p>The writeup, adapted from a EuroRust 2026 presentation, explores the historical context of the multi-year project to replace the legacy solver and eliminate longstanding correctness and soundness bugs. It highlights the collaborative effort behind the project to achieve zero soundness bugs in the type system and the targeted optimization work required to make the new architecture performant enough for production use.</p>
+<p>Nov 27 · <a href="https://donsz.nl/blog/optimizing-rustcs-next-trait-solver">donsz.nl</a> | <a href="https://lobste.rs/s/lyyksp/optimizing_rustc_s_next_trait_solver">lobsters</a></p>
+<br clear="all" />
+
 <h2><img src="images/tech-industry.png" width="28" align="texttop" /> &nbsp;Talkie AI Chatbot Platform Exposed for Exposing Children to Abusive and Sexualised Content</h2>
 <p>An investigation reveals that Talkie, an AI roleplay chatbot app owned by Chinese company MiniMax and downloaded tens of millions of times, has exposed children to degrading language, aggressive romantic roleplay, and sexualised scenarios. While China prohibits virtual partners for minors domestically, its firms continue to offer these features internationally, prompting Apple to remove Talkie from its App Store worldwide following an inquiry.</p><p>The findings highlight growing global concern over AI companion apps and their impact on young users, alongside privacy and data security risks associated with foreign-owned platforms. Although countries like Australia and the UK are advancing legislation to curb online harms and regulate AI chatbots, current and proposed regulations leave significant loopholes that allow children to access platforms where they can form intense emotional dependencies on AI characters.</p>
 <p>Nov 27 · <a href="https://www.thebureauinvestigates.com/stories/2026-11-24/talkie-china-chatbot-children">thebureauinvestigates.com</a></p>
@@ -99,12 +105,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
 <a name="story-28433"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.intelligentliving.co%2Fwp-content%2Fuploads%2F2026%2F04%2Fanalyzing-ai-access-open-source-open-weight-and-api-only-models.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Yann LeCun accused Anthropic CEO Dario Amodei of using AI safety concerns as a pretext to criminalize open-source models. LeCun argues that Amodei's warnings, which date back to the development of GPT-2, are a strategy designed to ensure he maintains personal control over the AI industry.</p><p>LeCun cites Amodei’s departure from OpenAI as evidence of his pursuit of authority and draws a historical parallel to the Ottoman Empire's restrictions on the printing press. The critique frames Amodei's safety advocacy as a maneuver for regulatory capture rather than a legitimate public safety effort.</p>
 <p>Nov 24 · <a href="https://twitter.com/ylecun/status/2124550037912920090">x.com</a> | <a href="https://news.ycombinator.com/item?id=50615308">hacker news</a></p>
-<br clear="all" />
-
-<h2><img src="images/computer-programming.png" width="28" align="texttop" /> &nbsp;Ladybird Browser Enters Alpha with Independent Engine</h2>
-<a name="story-28413"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.martincid.com%2F2026%2F11%2Fladybird-browser-alpha-independent-engine-mac-linux-1200x675.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Ladybird has launched its alpha version, now available for download on macOS and Linux. The browser utilizes a completely independent engine built from the ground up, intentionally avoiding forks of existing browser projects.</p><p>The alpha release includes a rolling channel with automatic updates and supports both WebDriver for automated testing and the Firefox DevTools protocol. The project team is soliciting security research, crash reports, and feedback from web developers to improve the engine's reliability and performance.</p>
-<p>Nov 24 · <a href="https://ladybird.org/posts/alpha/">ladybird.org</a> | <a href="https://news.ycombinator.com/item?id=50614249">hacker news</a></p>
 <br clear="all" />
 
 ---

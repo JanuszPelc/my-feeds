@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Dante Security Raises $10 Million Seed Funding to Secure Enterprise AI Agents</h2>
+<a name="story-28687"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpic1.calcalist.co.il%2Fpicserver3%2Fcrop_images%2F2026%2F11%2F24%2FBJxVRegmJ7e%2FBJxVRegmJ7e_0_0_1379_1024_0_x-large.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Cybersecurity startup Dante Security has raised $10 million in a seed funding round led by NFX, with participation from Alpha Drive, Inovia, and private investors. Founded by former Imperva executives, the company is developing a platform designed to monitor the activities of autonomous AI agents within organizations and link their operations directly to responsible employees.</p><p>As businesses increasingly grant AI agents valid credentials and autonomous access to sensitive systems, these agents can be manipulated by malicious inputs to execute unauthorized actions that appear legitimate. Dante's platform provides end-to-end visibility and human oversight to help enterprises maintain data security, ensure regulatory compliance, and manage operational risks as they expand their use of artificial intelligence.</p>
+<p>Nov 27 · <a href="https://www.calcalistech.com/ctechnews/article/h18nob7kml">calcalistech.com</a></p>
+<br clear="all" />
+
 <h2>Binance Lifts Withdrawal Suspension Following $6.3 Billion Hack Recovery</h2>
 <a name="story-28673"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.euromoneydigital.com%2Fdims4%2Fdefault%2F440f887%2F2147483647%2Fstrip%2Ftrue%2Fcrop%2F549x288%2B126%2B0%2Fresize%2F1200x630%21%2Fquality%2F90%2F%3Furl%3Dhttp%3A%2F%2Feuromoney-brightspot.s3.amazonaws.com%2Fd9%2F69%2Fc58dcdf89e1fe385fccf407e5f62%2Fiflr1000-logo-for-website.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Binance announced that its recovery work is complete and all withdrawal suspensions have been fully lifted. The move follows a record $6.3 billion cryptocurrency theft from the platform's hot wallets last month.</p><p>The exchange initially froze transactions immediately following the security breach before implementing a phased restart of customer withdrawals at the beginning of November. The complete restoration marks the final phase of platform recovery operations following the unprecedented heist.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <h2>Stalwart Releases Drop-in Replacement for Microsoft Exchange</h2>
 <p>Stalwart 1.2.0 implements Microsoft Exchange protocols, including MAPI over HTTP, Exchange Web Services (EWS), Exchange ActiveSync, and Autodiscover. This allows Outlook, Apple Mail, and mobile mail apps to connect to the open-source server as they would to a native Exchange instance. Users can migrate mailboxes while keeping their current clients, folder layouts, and rules intact.</p><p>The update provides an alternative for organizations seeking to move away from on-premises Exchange or the Microsoft cloud due to data sovereignty concerns. Stalwart's Exchange support is modular, allowing it to be disabled or removed once the protocols become obsolete. The release also introduces Vandelay, a migration tool designed to import mailboxes from both on-premises Exchange servers and Microsoft 365.</p>
 <p>Nov 24 · <a href="https://stalw.art/blog/microsoft-exchange-replacement/">stalw.art</a> | <a href="https://news.ycombinator.com/item?id=50620349">hacker news</a></p>
-<br clear="all" />
-
-<h2>Sneakernet Offers Offline Messaging System for Physical Transport</h2>
-<a name="story-28414"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsendent.com%2Fwp-content%2Fuploads%2F2023%2F01%2Fimage-3-1024x686.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Sneakernet is a messaging system designed to send digital messages without an internet connection by combining local networks with physical transport. Users pass messages to one another at local gatherings—such as hackerspaces, events, or cafes—where they are then physically carried to their destinations by participants. The system provides authentication for all messages and encryption for private communications to ensure that carriers cannot tamper with or read private data.</p><p>The project promotes slow, deliberate communication and face-to-face interaction as an alternative to standard internet messaging. It supports several pre-built applications, including sneakermail for email, sneakernews for message boards, and sneakershare for file sharing. Developers can also build custom applications on the platform, provided they are designed to handle high latency and out-of-order message delivery.</p>
-<p>Nov 24 · <a href="https://sneakernet.eu/">sneakernet.eu</a> | <a href="https://lobste.rs/s/pdecff/sneakernet">lobsters</a></p>
 <br clear="all" />
 
 ---
