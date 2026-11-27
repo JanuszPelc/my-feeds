@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>HOFA-Plugins Releases Analyzer V3 Spectrum Analyzer and Metering Suite</h2>
+<a name="story-28680"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fanalyzer-v3-0-0.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>HOFA-Plugins has released Analyzer V3, a spectrum analysis and metering suite designed for studio and live audio engineering. Available as a standalone application and in VST3, AU, and AAX plugin formats, the software introduces GPU-accelerated filter bank analysis alongside energy and hold curves to track frequency distribution and transient peaks.</p><p>The updated suite includes an expanded library of genre and instrument reference curves, a frequency correlator for stereo width monitoring, and EBU R128 loudness metering tools. Users can customize the workspace layout by arranging and resizing individual modules, manage multiple plugin instances within a single display, and perform offline analysis up to eight times faster than previous versions.</p>
+<p>Nov 26 · <a href="https://www.kvraudio.com/news/hofa-plugins-releases-analyzer-v3---gpu-accelerated-spectrum-analysis-and-metering-in-a-fully-customizable-layout-70206?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70206">kvraudio.com</a> | <a href="https://hofa-plugins.de/en/shop/bundle-en/analyzer-v3-bundle/">hofa-plugins.de</a></p>
+<br clear="all" />
+
 <h2>BPB Releases Microspace Free Convolution Reverb Plugin</h2>
 <a name="story-28669"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.musicguymixing.com%2Fwp-content%2Fuploads%2F2025%2F02%2FImpulse-Response-Reverb.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Bedroom Producers Blog has released BPB Microspace, a free convolution-based reverb plugin built from impulse responses captured on an Alesis Microverb II hardware unit. The plugin includes all 16 original hardware modes, encompassing small, medium, large, and gated reverb spaces.</p><p>Additional controls include a decay time adjuster with gate-like behavior for classic 1980s snare effects, pre-delay settings, high-pass and low-pass filters, and a "Dirt" parameter that combines sample-rate and bit-depth reduction. Available in VST3 and AU formats for Windows and macOS, the software is distributed as a free download via Gumroad.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28628"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsotto_sampler_main-screen-3440.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Sottovoce DSP has released Sotto Sampler, a time-stretching sampler plug-in designed for macOS and Windows. The software automatically chops audio files, allowing producers to stretch, pitch-shift, and synchronize samples from multiple sources into a unified key, tempo, and groove.</p><p>The plug-in features automatic transient and region detection, individual chop controls with dedicated envelopes, stem separation capabilities, and an integrated effects rack. It supports VST3, AU, and AAX formats, and includes a performance layout that lets users play chops from up to nine tracks simultaneously.</p>
 <p>Nov 26 · <a href="https://www.kvraudio.com/news/sottovoce-dsp-releases-sotto-sampler-plugin-vst-au-aax-70180?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70180">kvraudio.com</a> | <a href="https://sottovocedsp.com/products/sotto-sampler">sottovocedsp.com</a></p>
-<br clear="all" />
-
-<h2>XLN Audio Releases Buttered Dead Drums Free Sample Pack</h2>
-<a name="story-28629"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F6zoFAAG10ks%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>XLN Audio is offering a free drum sample pack titled Buttered Dead Drums, featuring curated WAV audio files derived from the Vintage Dead expansion for Addictive Drums 2. The 36.5 MB collection contains 37 one-shots—including kicks, snares, hi-hats, cymbals, claps, and toms—alongside nine drum loops.</p><p>The included sounds are processed using XLN Audio's DB-30 Drum Butter plugin to enhance punch and character. The sample pack is available as a direct download without requiring user registration.</p>
-<p>Nov 26 · <a href="https://bedroomproducersblog.com/2026/11/26/xln-audio-buttered-dead-drums/">bedroomproducersblog.com</a> | <a href="https://www.xlnaudio.com/black_friday_free_samples">xlnaudio.com</a></p>
 <br clear="all" />
 
 ---
