@@ -8,6 +8,24 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Zero-G Total Bass Drums Sample Library Available Free</h2>
+<a name="story-28708"><img src="https://wsrv.nl/?url=https%3A%2F%2Fzero-g.co.uk%2Fcdn%2Fshop%2Fproducts%2FTotal_Bass_Drums_1024x1024.jpg%3Fv%3D1559646519&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Zero-G is offering its Total Bass Drums sample library, which normally costs $34.99, as a free download for Bedroom Producers Blog readers through November 30, 2026. Users can obtain the library for free by applying a promotional coupon code during checkout on the Zero-G website.</p><p>The 1.2 GB library includes 10,750 individual kick drum hits spanning genres like acoustic, analog, hip-hop, house, and trance, alongside 4,000 mixed kicks. It also features 215 pre-mapped instrument patches for samplers including Kontakt, EXS24, HALion, and Reason NN-XT, with the audio files provided in Acidized WAV and Apple AIFF formats.</p>
+<p>Nov 27 · <a href="https://bedroomproducersblog.com/2026/11/27/zerog-total-bass-drums-free/">bedroomproducersblog.com</a> | <a href="https://zero-g.co.uk/products/total-bass-drums">zero-g.co.uk</a></p>
+<br clear="all" />
+
+<h2>Waves Audio Offers Rogue Pre-Focus Analog Preamp Plugin Free for Black Friday</h2>
+<a name="story-28709"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FMyeKkEmVQCw%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Waves Audio is offering its new Rogue Pre-Focus analog preamp plugin for free during the Black Friday weekend. The plugin models the input stages of six rare and lesser-known hardware circuits, providing distinct saturation colors ranging from the mild Silk and Tape models to the aggressive Iron and Bite circuits.</p><p>Designed for use on individual tracks, busses, or full mixes, the software includes a Bass Relief control to manage low frequencies before saturation, as well as Lows and Highs shelving EQ adjustments. Rogue Pre-Focus is available in 64-bit VST3, AU, and AAX formats for macOS and Windows, and requires a free Waves account and Waves Central for installation.</p>
+<p>Nov 27 · <a href="https://bedroomproducersblog.com/2026/11/27/waves-rogue-free/">bedroomproducersblog.com</a> | <a href="https://www.waves.com/black-friday-2026/free-plugin-signup">waves.com</a></p>
+<br clear="all" />
+
+<h2>SoundMorph Offers Black Friday Discounts on DUST and Universe Bundle</h2>
+<a name="story-28710"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdt7v1i9vyp3mf.cloudfront.net%2Fstyles%2Fnews_large%2Fs3%2Fimagelibrary%2FS%2FSoundMorphDust_01-ziywXqPIDqMibPTOmUQYA9hTzh_CpMDh.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>SoundMorph is offering limited-time Black Friday discounts exclusively for Bedroom Producers Blog readers, reducing the price of its DUST binaural granular synthesizer to $9.99 and the Universe Bundle to $299 until November 30, 2026. Buyers must apply specific promotional codes at checkout to secure the reduced rates.</p><p>DUST is a granular synthesizer that lets users manipulate audio samples using up to eight particle emitters, virtual magnets, and directional controls to build complex atmospheres and drones. The Universe Bundle includes over 50 sound effect libraries, drum kits, and creative tools, alongside a 12-month subscription for upcoming product releases.</p>
+<p>Nov 27 · <a href="https://bedroomproducersblog.com/2026/11/27/bpb-exclusive-soundmorph/">bedroomproducersblog.com</a></p>
+<br clear="all" />
+
 <h2>Sacred Audio Releases Mantra Free LFO Shaper and Trance Gate</h2>
 <a name="story-28713"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsampleroll.com%2Fshft%2Flfo.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Sacred Audio has released Mantra, a free LFO shaper and trance gate plugin for macOS and Windows tailored for rolling psytrance basslines and rhythmic pads. The plugin allows users to chop sustained sounds into pulses using custom modulation curves, built-in multi-mode filters, and a dedicated Kick Lock function that automatically ducks the audio to leave room for the kick drum.</p><p>The software features eight pattern slots switchable via MIDI notes, 11 factory banks, and the ability to export patterns as MIDI data directly into a DAW. Mantra is permanently free without trial limitations, though downloading it requires registering a free Sacred Audio account. It supports VST3 and AU formats on macOS and VST3 on Windows.</p>
@@ -77,24 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28669"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.musicguymixing.com%2Fwp-content%2Fuploads%2F2025%2F02%2FImpulse-Response-Reverb.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Bedroom Producers Blog has released BPB Microspace, a free convolution-based reverb plugin built from impulse responses captured on an Alesis Microverb II hardware unit. The plugin includes all 16 original hardware modes, encompassing small, medium, large, and gated reverb spaces.</p><p>Additional controls include a decay time adjuster with gate-like behavior for classic 1980s snare effects, pre-delay settings, high-pass and low-pass filters, and a "Dirt" parameter that combines sample-rate and bit-depth reduction. Available in VST3 and AU formats for Windows and macOS, the software is distributed as a free download via Gumroad.</p>
 <p>Nov 26 · <a href="https://bedroomproducersblog.com/2026/11/26/bpb-microspace/">bedroomproducersblog.com</a></p>
-<br clear="all" />
-
-<h2>Avid Offers Up to 33 Percent Off Pro Tools for Black Friday</h2>
-<a name="story-28665"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Favid-pro-tools-bf-2026-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Avid is offering discounts of up to 33 percent off annual subscriptions for its Pro Tools audio production software during the Black Friday season. The promotion applies to new one-year paid-upfront purchases across the Artist, Studio, and Ultimate tiers of the digital audio workstation.</p><p>The sale coincides with the recent release of Pro Tools 2026.11, which introduced new tools including the Pro Tools Extensions plugin framework, a local AI-powered Stem Separator, and MIDI Polyphonic Expression support. Subscriptions renew at standard pricing after the initial promotional year.</p>
-<p>Nov 26 · <a href="https://musictech.com/news/gear/avid-pro-tools-2026-sale/">musictech.com</a> | <a href="https://www.avid.com/pro-tools">avid.com</a></p>
-<br clear="all" />
-
-<h2>Nord Grand 2 Stage Piano Offered at Discount by Sweetwater</h2>
-<a name="story-28662"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fnord-grand-2-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Sweetwater is offering Nord’s flagship Grand 2 stage piano for $4,499, a $500 reduction from its standard $4,999 price, with the promotion running through November 30. The 88-key instrument features a Kawai-built hammer-action keybed utilizing a triple-sensor system designed to replicate the physical response of an acoustic grand piano.</p><p>The updated model includes a revised control layout and an expanded sound engine with layerable piano and synth sections, each featuring dedicated effects and new reverb and delay options. The system supports 120-voice polyphony and includes expanded sample memory, the Triple Pedal 2, and a two-year warranty.</p>
-<p>Nov 26 · <a href="https://musictech.com/news/gear/nords-flagship-grand-2-stage-piano-is-500-off-for-black-friday/">musictech.com</a> | <a href="https://www.nordkeyboards.com/products/nord-grand-2/overview/">nordkeyboards.com</a></p>
-<br clear="all" />
-
-<h2>Celemony Melodyne 5 Essential Discounted to £21 for Black Friday</h2>
-<a name="story-28660"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2FMelodyne-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Celemony's pitch and timing correction software, Melodyne 5 Essential, is available at a discounted price of £21 through Plugin Boutique as part of a Black Friday promotion running until December 30, 2026. The entry-level edition is normally priced at £85.</p><p>Melodyne 5 Essential provides note-based audio editing using visual representations of notes rather than traditional waveforms, incorporating the Melodic, Percussive, and Universal algorithms along with automated chord recognition. While it omits advanced manual controls like the Fade and Sibilant tools found in higher tiers, users can later upgrade to more advanced editions by paying the price difference.</p>
-<p>Nov 26 · <a href="https://musictech.com/news/gear/melodyne-essential-black-friday-deal/">musictech.com</a> | <a href="https://www.pluginboutique.com/product/3-Studio-Tools/48-Audio-Editor/6446-Melodyne-5-Essential/?a_aid=5a86bc628c110">pluginboutique.com</a></p>
 <br clear="all" />
 
 ---
