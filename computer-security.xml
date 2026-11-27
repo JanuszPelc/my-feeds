@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-27T07:13:00+00:00</updated>
+  <updated>2026-11-27T17:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Hackers Breach US Air Force Cloud One Computing Platform</title>
+    <link href="https://www.reuters.com/world/hackers-breach-us-air-force-flagship-cloud-one-computing-platform-2026-11-27/" rel="alternate" />
+    <id>https://www.reuters.com/world/hackers-breach-us-air-force-flagship-cloud-one-computing-platform-2026-11-27/::v241</id>
+    <published>2026-11-27T17:04:00+00:00</published>
+    <updated>2026-11-27T17:04:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fappinventiv.com%2Fwp-content%2Fuploads%2F2024%2F08%2Fcloud_computing_in_oil_and_gas_industry_identifying_business_opportunities_and_challenges-3.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/world/hackers-breach-us-air-force-flagship-cloud-one-computing-platform-2026-11-27/">reuters.com</a> | <a href="https://www.reddit.com/r/technology/comments/1y6s5so/us_air_forces_main_cloud_platform_has_been_hacked/">r/technology</a> | <a href="https://news.ycombinator.com/item?id=50665811">hacker news</a></small></p><hr/><p>Hackers have breached the United States Air Force's flagship cloud computing platform, Cloud One, according to sources familiar with the matter. The multi-vendor environment integrates services from Microsoft, Amazon, Oracle, and Google to support various Air Force applications.</p><p>The intrusion was reportedly uncovered during a system upgrade and caused disruptions to the platform. Cloud One serves as a critical infrastructure backbone for military operations, managing major enterprise applications across multiple commercial cloud providers.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fappinventiv.com%2Fwp-content%2Fuploads%2F2024%2F08%2Fcloud_computing_in_oil_and_gas_industry_identifying_business_opportunities_and_challenges-3.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Nov 2026, 22:20 UTC | #28714</small>]]></content>
+  </entry>
   <entry>
     <title>Dante Security Raises $10 Million Seed Funding to Secure Enterprise AI Agents</title>
     <link href="https://www.calcalistech.com/ctechnews/article/h18nob7kml" rel="alternate" />
