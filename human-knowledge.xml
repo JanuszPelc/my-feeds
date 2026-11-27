@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-26T20:07:00+00:00</updated>
+  <updated>2026-11-27T10:30:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Connor Panter Study Examines Climate Change Impact on Britain’s Birds of Prey</title>
+    <link href="https://theconversation.com/climate-change-could-dramatically-alter-habitats-for-britains-birds-of-prey-new-research-297611" rel="alternate" />
+    <id>https://theconversation.com/climate-change-could-dramatically-alter-habitats-for-britains-birds-of-prey-new-research-297611::v241</id>
+    <published>2026-11-27T10:30:00+00:00</published>
+    <updated>2026-11-27T10:30:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F774554%2Foriginal%2Ffile-20261126-62-gnjsac.jpg%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://theconversation.com/climate-change-could-dramatically-alter-habitats-for-britains-birds-of-prey-new-research-297611">theconversation.com</a> | <a href="https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2026.1922294/abstract">frontiersin.org</a></small></p><hr/><p>New research by University of Nottingham researcher Connor Panter investigates how future climate change could alter environmental suitability for 16 breeding bird of prey species in the UK. Using computer models across various emissions scenarios, the study projects contrasting outcomes, with the peregrine falcon seeing potential habitat expansion while species like the short-eared owl, white-tailed eagle, red kite, and merlin face significant habitat reductions.</p><p>The author emphasizes that these models track shifting environmental conditions rather than guaranteed population movements or declines, as birds may adapt or face indirect pressures like changes in prey availability. Continued monitoring via citizen science platforms and mitigating existing threats such as illegal shooting are highlighted as vital components for long-term raptor conservation.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F774554%2Foriginal%2Ffile-20261126-62-gnjsac.jpg%3Fixlib%3Drb-4.1.1%26q%3D45%26auto%3Dformat%26w%3D754%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Nov 2026, 15:38 UTC | #28705</small>]]></content>
+  </entry>
   <entry>
     <title>Diseases Cured by AI Website Tracks Zero Approved Treatments</title>
     <link href="https://diseasescuredbyai.com/" rel="alternate" />
