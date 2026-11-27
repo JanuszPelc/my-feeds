@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-11-27T10:00:00+00:00</updated>
+  <updated>2026-11-27T10:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Sonicbits Updates Exakt FM Synthesizer to Version 1.4</title>
+    <link href="https://www.kvraudio.com/news/sonicbits-updates-exakt-fm-synth-to-v1-4-with-mpe-support-and-clap-format-70236?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=70236" rel="alternate" />
+    <id>https://www.kvraudio.com/news/sonicbits-updates-exakt-fm-synth-to-v1-4-with-mpe-support-and-clap-format-70236?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=70236::v241</id>
+    <published>2026-11-27T10:58:00+00:00</published>
+    <updated>2026-11-27T10:58:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fexakt_ui_1-4-0.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/sonicbits-updates-exakt-fm-synth-to-v1-4-with-mpe-support-and-clap-format-70236?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70236">kvraudio.com</a> | <a href="https://www.sonicbits.com/plugins/exakt">sonicbits.com</a></small></p><hr/><p>Sonicbits has released version 1.4.0 of Exakt, its 4-operator FM synthesizer for Windows and macOS. The update introduces MIDI Polyphonic Expression (MPE) support, compatibility with the CLAP plugin format, and a global transpose control.</p><p>Additional changes include a modernized graphics engine for a sharper interface, 27 new presets with 18 designed for MPE, and improvements to Yamaha SysEx bank imports. The update is free for existing customers, and a demo version is available.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fexakt_ui_1-4-0.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Nov 2026, 16:02 UTC | #28707</small>]]></content>
+  </entry>
   <entry>
     <title>Zero-G Total Bass Drums Sample Library Available Free</title>
     <link href="https://bedroomproducersblog.com/2026/11/27/zerog-total-bass-drums-free/" rel="alternate" />

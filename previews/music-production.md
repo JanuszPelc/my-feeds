@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Sonicbits Updates Exakt FM Synthesizer to Version 1.4</h2>
+<a name="story-28707"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fexakt_ui_1-4-0.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Sonicbits has released version 1.4.0 of Exakt, its 4-operator FM synthesizer for Windows and macOS. The update introduces MIDI Polyphonic Expression (MPE) support, compatibility with the CLAP plugin format, and a global transpose control.</p><p>Additional changes include a modernized graphics engine for a sharper interface, 27 new presets with 18 designed for MPE, and improvements to Yamaha SysEx bank imports. The update is free for existing customers, and a demo version is available.</p>
+<p>Nov 27 · <a href="https://www.kvraudio.com/news/sonicbits-updates-exakt-fm-synth-to-v1-4-with-mpe-support-and-clap-format-70236?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70236">kvraudio.com</a> | <a href="https://www.sonicbits.com/plugins/exakt">sonicbits.com</a></p>
+<br clear="all" />
+
 <h2>Zero-G Total Bass Drums Sample Library Available Free</h2>
 <a name="story-28708"><img src="https://wsrv.nl/?url=https%3A%2F%2Fzero-g.co.uk%2Fcdn%2Fshop%2Fproducts%2FTotal_Bass_Drums_1024x1024.jpg%3Fv%3D1559646519&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Zero-G is offering its Total Bass Drums sample library, which normally costs $34.99, as a free download for Bedroom Producers Blog readers through November 30, 2026. Users can obtain the library for free by applying a promotional coupon code during checkout on the Zero-G website.</p><p>The 1.2 GB library includes 10,750 individual kick drum hits spanning genres like acoustic, analog, hip-hop, house, and trance, alongside 4,000 mixed kicks. It also features 215 pre-mapped instrument patches for samplers including Kontakt, EXS24, HALion, and Reason NN-XT, with the audio files provided in Acidized WAV and Apple AIFF formats.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28680"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fanalyzer-v3-0-0.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>HOFA-Plugins has released Analyzer V3, a spectrum analysis and metering suite designed for studio and live audio engineering. Available as a standalone application and in VST3, AU, and AAX plugin formats, the software introduces GPU-accelerated filter bank analysis alongside energy and hold curves to track frequency distribution and transient peaks.</p><p>The updated suite includes an expanded library of genre and instrument reference curves, a frequency correlator for stereo width monitoring, and EBU R128 loudness metering tools. Users can customize the workspace layout by arranging and resizing individual modules, manage multiple plugin instances within a single display, and perform offline analysis up to eight times faster than previous versions.</p>
 <p>Nov 26 · <a href="https://www.kvraudio.com/news/hofa-plugins-releases-analyzer-v3---gpu-accelerated-spectrum-analysis-and-metering-in-a-fully-customizable-layout-70206?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70206">kvraudio.com</a> | <a href="https://hofa-plugins.de/en/shop/bundle-en/analyzer-v3-bundle/">hofa-plugins.de</a></p>
-<br clear="all" />
-
-<h2>BPB Releases Microspace Free Convolution Reverb Plugin</h2>
-<a name="story-28669"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.musicguymixing.com%2Fwp-content%2Fuploads%2F2025%2F02%2FImpulse-Response-Reverb.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Bedroom Producers Blog has released BPB Microspace, a free convolution-based reverb plugin built from impulse responses captured on an Alesis Microverb II hardware unit. The plugin includes all 16 original hardware modes, encompassing small, medium, large, and gated reverb spaces.</p><p>Additional controls include a decay time adjuster with gate-like behavior for classic 1980s snare effects, pre-delay settings, high-pass and low-pass filters, and a "Dirt" parameter that combines sample-rate and bit-depth reduction. Available in VST3 and AU formats for Windows and macOS, the software is distributed as a free download via Gumroad.</p>
-<p>Nov 26 · <a href="https://bedroomproducersblog.com/2026/11/26/bpb-microspace/">bedroomproducersblog.com</a></p>
 <br clear="all" />
 
 ---
