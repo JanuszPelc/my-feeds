@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Alex Kretzschmar Analyzes Sharp Increases in Hard Drive Prices</h2>
+<a name="story-28721"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4E22AQH1HVI5pFMzTA%2Ffeedshare-shrink_800%2FB4EZu0D4lSKYAg-%2F0%2F1768252477018%3Fe%3D2147483647%26v%3Dbeta%26t%3DB2glbemRzqwzk8Bu0L2YTXAfKZBJ4ATuQdnurYxeCMg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>In an analysis of historical purchase data, blogger Alex Kretzschmar highlights steep increases in hard drive prices over an eight-year period, noting that consumer storage costs have surged significantly by late 2026. A 20TB Western Digital EasyStore purchased for $249.99 in late 2024 rose to $549.99 by Black Friday 2026, while recertified enterprise drives experienced price jumps ranging from 58% to over 200% per terabyte.</p><p>Kretzschmar attributes the persistent price inflation to heavy industry consolidation that left only three major hard drive manufacturers—Seagate, Western Digital, and Toshiba—alongside shifting corporate priorities toward cloud infrastructure at the expense of consumer affordability. Consequently, home server operators face difficult trade-offs, such as reducing total disk slots and redesigning storage pools to manage escalating hardware expenses.</p>
+<p>Nov 27 · <a href="https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/">blog.ktz.me</a> | <a href="https://news.ycombinator.com/item?id=50661646">hacker news</a></p>
+<br clear="all" />
+
 <h2>Rockstar UK Workers Vote Against Union Recognition Deal</h2>
 <a name="story-28664"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.fatosdesconhecidos.com.br%2Fwp-content%2Fuploads%2F2023%2F12%2Frockstar.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>UK employees at Rockstar Games have voted against a formal union recognition deal with the Independent Workers Union of Great Britain (IWGB). Out of 1,544 participating workers representing a 93.2 percent turnout, 75 percent voted to reject the agreement, while 24.7 percent voted in favor.</p><p>The ballot ran from November 12 to November 26, coinciding with the launch of Grand Theft Auto VI. While the rejected deal would have established formal negotiation frameworks for pay, leave, pensions, and AI workplace policies, the union stated that employees remain free to organize and exercise trade union rights without formal management recognition.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <h2>Unsloth Updates Add 1.9x Faster Inkling 2 Mini and Fine-Tuning Support</h2>
 <p>Unsloth's latest software update introduces up to 1.9x faster decoding for Inkling 2 Mini on 8 to 12 GB GPUs, alongside newly enabled fine-tuning support. The release also brings performance improvements to multi-GPU diffusion LoRA training, which achieves roughly double the samples per second.</p><p>Additional features include faster GRPO and AsyncGRPO training rollouts, Qwen-Image-Flash and FastWan integrations for accelerated image and video generation, and new tools for translating audio, subtitles, and images. The update further adds interface enhancements such as improved thinking compaction and first-run customization options.</p>
 <p>Nov 23 · <a href="https://unsloth.ai/docs/new/changelog#id-1.9x-faster-inkling-2-mini">unsloth.ai</a></p>
-<br clear="all" />
-
-<h2>Daniel Isheden Releases CORTAO Open-Source Ambient Occlusion Technique</h2>
-<a name="story-28336"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fbltbc73f0f172428040%2F6b00cb94631bf96b0e031019%2Fevefrontierfeatured.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Daniel Isheden, a developer at Fenris Creations, has released CORTAO (Circular Occluder Ray-Traced Ambient Occlusion) as an open-source repository. The physically based real-time screen-space ambient occlusion technique was developed over a two-year period and has been adopted by Fenris Creations for use in the game EVE: Frontier.</p><p>CORTAO uses screen-space raytracing to compute ambient occlusion with high accuracy and a larger occlusion radius, addressing visual challenges in complex scenes such as dense foliage and dynamic space environments. Because the technique converges faster than traditional methods, it requires less GPU time, enabling efficient performance on lower-end hardware while accommodating both realistic and stylized visuals.</p>
-<p>Nov 23 · <a href="https://www.gamedeveloper.com/programming/devs-can-now-utilize-high-end-ambient-occlusion-technique-seen-in-eve-frontier">gamedeveloper.com</a> | <a href="https://github.com/theagentd/CORTAO">github.com</a></p>
 <br clear="all" />
 
 ---
