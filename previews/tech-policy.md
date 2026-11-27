@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Florida Man Sentenced to 47 Months in Prison for AI Impersonation of Streamer N3on</h2>
+<a name="story-28675"><img src="https://wsrv.nl/?url=https%3A%2F%2Fondrejkrehel.com%2Fwp-content%2Fuploads%2F2026%2F05%2FVoice-Cloning-Scams-1024x683.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>David Anthony Sanchez of Port St. Lucie, Florida, has been sentenced to 47 months in prison for using artificial intelligence voice cloning and forged identities to impersonate Kick streamer N3on. Sanchez operated online accounts and sent AI-generated voice recordings to trick organizers of a memecoin project into believing the streamer endorsed their venture.</p><p>The scheme resulted in victims transferring approximately $260,000 in cryptocurrency to accounts controlled by Sanchez, who then laundered the funds into U.S. dollars for personal use. He was also ordered to pay restitution to the victims, highlighting the growing prevalence of AI impersonation scams in digital fraud.</p>
+<p>Nov 26 · <a href="https://aftermath.site/n3on-impersonator-ai-prison-260000-dollars-kick-stream/">aftermath.site</a> | <a href="https://www.justice.gov/usao-sdfl/pr/port-st-lucie-man-sentenced-47-months-prison-using-ai-impersonate-popular-streamer">justice.gov</a></p>
+<br clear="all" />
+
 <h2>UK FCA Plans Stricter Authorization Requirements for DeFi Platforms</h2>
 <a name="story-28650"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbitcoinist.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fchainalysis-binance-hack-1140x534.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The UK Financial Conduct Authority plans to introduce regulations requiring decentralised finance platforms to obtain authorization, establishing a stance that is stricter than those adopted in the United States and the European Union.</p><p>The regulator cited a lack of consumer protections and pointed to the $6.3 billion Binance hack as evidence of heightened money laundering risks and the speed at which illicit funds move through decentralised networks.</p>
@@ -90,11 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-28540"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F6b04df84424fd4be0d579981%2Fmaster%2Fw_2560%252Cc_limit%2FHow-Trump-Admin-Got-Piece-of-Intel-Business.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Unsealed court documents from a shareholder lawsuit reveal that the Trump administration used intense pressure tactics to acquire a 10 percent equity stake in Intel in August 2025. Commerce Department officials allegedly told company executives that rejecting the deal would result in unpredictable consequences, forcing the board to comply under the threat of withheld federal CHIPS Act grants.</p><p>The disclosures highlight a broader shift in federal policy prioritizing direct financial returns from private technology companies over traditional economic metrics. Legal challenges filed against Intel and Nvidia argue that these government-backed equity demands and revenue-sharing agreements constitute unlawful coercion and breaches of fiduciary duty by corporate boards.</p>
 <p>Nov 25 · <a href="https://www.wired.com/story/inside-trumps-demands-to-another-chips-ceo/">wired.com</a></p>
-<br clear="all" />
-
-<h2>Asian Data Centers Seek US Clients to Replace China Demand</h2>
-<p>Asian data centers and neocloud providers are seeking US clients to fill computing capacity vacated by declining demand from China. This shift follows new United States government regulations that restrict remote access to advanced AI chips, a move designed to close a loophole that allowed China to access restricted American technology through overseas infrastructure.</p><p>The transition occurs as hourly rental costs for B300 chips fall, influencing the accessibility and pricing of high-performance computing power. These new export controls by the Trump administration force Asian providers to pivot their business models toward Western markets to compensate for the significant loss of Chinese demand.</p>
-<p>Nov 25 · <a href="https://www.bloomberg.com/news/articles/2026-11-25/asia-data-centers-sound-out-us-clients-to-replace-china-demand">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
