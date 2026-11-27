@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Rockstar UK Workers Vote Against Union Recognition Deal</h2>
+<a name="story-28664"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.fatosdesconhecidos.com.br%2Fwp-content%2Fuploads%2F2023%2F12%2Frockstar.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>UK employees at Rockstar Games have voted against a formal union recognition deal with the Independent Workers Union of Great Britain (IWGB). Out of 1,544 participating workers representing a 93.2 percent turnout, 75 percent voted to reject the agreement, while 24.7 percent voted in favor.</p><p>The ballot ran from November 12 to November 26, coinciding with the launch of Grand Theft Auto VI. While the rejected deal would have established formal negotiation frameworks for pay, leave, pensions, and AI workplace policies, the union stated that employees remain free to organize and exercise trade union rights without formal management recognition.</p>
+<p>Nov 26 · <a href="https://www.verticalslice.news/rockstar-workers-vote-against-historic-union-recognition-deal/">verticalslice.news</a></p>
+<br clear="all" />
+
 <h2>Grand Theft Auto VI Prompts Households to Share Consoles and Coordinate Playtime</h2>
 <a name="story-28642"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F11%2FJason_and_Lucia_20.0cd-.c7jr-5g9.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Households playing Grand Theft Auto VI are navigating logistical challenges to experience the massive single-player game on shared hardware. Couples and families are coordinating schedules, sharing console accounts, and balancing gaming time to accommodate the lengthy release without purchasing multiple copies or separate systems.</p><p>Players have adopted various strategies to avoid spoilers and manage responsibilities, from alternating play schedules around work hours to utilizing console account sharing features. While balancing playtime requires communication, many couples find that discussing their experiences and choices within the game adds a collaborative dimension to their shared hobby.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-28336"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fbltbc73f0f172428040%2F6b00cb94631bf96b0e031019%2Fevefrontierfeatured.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Daniel Isheden, a developer at Fenris Creations, has released CORTAO (Circular Occluder Ray-Traced Ambient Occlusion) as an open-source repository. The physically based real-time screen-space ambient occlusion technique was developed over a two-year period and has been adopted by Fenris Creations for use in the game EVE: Frontier.</p><p>CORTAO uses screen-space raytracing to compute ambient occlusion with high accuracy and a larger occlusion radius, addressing visual challenges in complex scenes such as dense foliage and dynamic space environments. Because the technique converges faster than traditional methods, it requires less GPU time, enabling efficient performance on lower-end hardware while accommodating both realistic and stylized visuals.</p>
 <p>Nov 23 · <a href="https://www.gamedeveloper.com/programming/devs-can-now-utilize-high-end-ambient-occlusion-technique-seen-in-eve-frontier">gamedeveloper.com</a> | <a href="https://github.com/theagentd/CORTAO">github.com</a></p>
-<br clear="all" />
-
-<h2>Marches &amp; Gnats Programming Challenge Game Released</h2>
-<a name="story-28311"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmng.quest%2Fstatic%2Fpage-covers%2Ftutorial.d1d0d16aafd5.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Marches &amp; Gnats is a browser-based coding puzzle game inspired by Advent of Code and built around a single-tape Turing machine. Set in 19th-century Estonia, the game tasks players with writing instructions for the Logic Mill to help a character named Mihkel across 46 distinct quests.</p><p>The project incorporates leaderboards and features integration for AI agents designed to attempt the programming challenges. Players and enthusiasts can track ongoing updates and discussions through the game's official Substack, Reddit, Discord, and X channels.</p>
-<p>Nov 23 · <a href="https://mng.quest/">mng.quest</a> | <a href="https://lobste.rs/s/2zhfms/marches_gnats_programming_challenges">lobsters</a></p>
 <br clear="all" />
 
 ---
