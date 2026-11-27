@@ -8,6 +8,41 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Smart Audio Plugins Offers Drum Bus Buddy Free to BPB Readers</h2>
+<a name="story-28696"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.sftcdn.net%2Fimages%2Ft_app-cover-l%2Cf_auto%2Fp%2F5496157e-44f9-4c24-90c1-82b08114878e%2F2369870890%2Fdrum-kit-drums-free-screenshot.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Smart Audio Plugins is offering its Drum Bus Buddy processor for free exclusively to Bedroom Producers Blog readers through December 3, 2026. Normally priced at $39, the plugin can be obtained by entering a promotional code at checkout with a free Audioloom account.</p><p>The plugin combines three-band saturation and parallel compression in a single layout with separate mix controls for each stage. It features advanced frequency shaping for bass, mid, and high bands, three distinct compressor modes, automatic gain matching, and an optional output limiter for 64-bit VST3, AAX, and AU formats on macOS and Windows.</p>
+<p>Nov 27 · <a href="https://bedroomproducersblog.com/2026/11/27/drum-bus-buddy-free/">bedroomproducersblog.com</a> | <a href="https://smartaudioplugins.com/drum-bus-buddy.html">smartaudioplugins.com</a></p>
+<br clear="all" />
+
+<h2>Westwood Instruments Releases Roots Bad Batch Free Percussion Instrument</h2>
+<a name="story-28694"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.rekkerd.org%2Fwp-content%2Fuploads%2F2026%2F11%2FWestwood-Roots-Bad-Batch.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Developer Westwood Instruments has released Roots Bad Batch, a free percussion instrument for macOS and Windows. Built as part of the company's Roots series, the software is compiled from unused drum recordings from an old session at Nave Studios in Leeds, England.</p><p>The instrument features six sets of processed drum samples across three blendable kits. Controls include parameters for Trash, Filter, Smack, Echo, Reverb, and Gate, allowing users to shape the sound from subtle crisp character to aggressive tones. It is available in AU, VST, and VST3 formats for macOS 12 and Windows 10 or later.</p>
+<p>Nov 27 · <a href="https://bedroomproducersblog.com/2026/11/27/westwood-instruments-releases-roots-bad-batch-a-free-edgy-percussion-instrument-for-macos-and-windows/">bedroomproducersblog.com</a> | <a href="https://www.westwoodinstruments.com/instruments/roots-bad-batch">westwoodinstruments.com</a></p>
+<br clear="all" />
+
+<h2>RC MIX Releases RC Kick and RC Snare 2.0 Plugins</h2>
+<p>RC MIX has launched RC Kick, a dedicated multi-processor channel strip plugin for acoustic kick drums, alongside version 2.0 of its existing RC Snare plugin. Both tools are built to help producers process real acoustic drum tracks efficiently using specialized controls for shaping attack, punch, body, and resonance.</p><p>To coincide with the release, the developer is offering both plugins at a 50 percent discount for Black Friday, lowering the price to $24.50 each through November 30. Existing owners of RC Snare receive the version 2.0 update for free, which introduces new features such as an input gain control, a sweepable high-pass filter, and polarity inversion.</p>
+<p>Nov 27 · <a href="https://bedroomproducersblog.com/2026/11/27/rc-mix-black-friday/">bedroomproducersblog.com</a> | <a href="https://www.rcmix.studio/">rcmix.studio</a></p>
+<br clear="all" />
+
+<h2>A Sound Effect Launches Wild Black Friday Sale With Discounts Up to 90%</h2>
+<a name="story-28697"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FzHBYzf6MtdY%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>A Sound Effect has launched its Wild Black Friday Sale, offering discounts of up to 90% across more than 3,700 sound libraries, plugins, and virtual instruments. The promotion runs through December 12, 2026, featuring rotating flash deals, free downloadable sound effects, and additional bonus libraries included with purchases.</p><p>Notable discounts during the event include reduced pricing on specialized libraries such as SoundFellas' Fictional Doors and Portals, Rock The Speakerbox's Creature Calls, and complete collections from the Surround Sound LAB and PMSFX. Orders meeting specific spending thresholds qualify for additional free full-length premium sound effect libraries.</p>
+<p>Nov 27 · <a href="https://bedroomproducersblog.com/2026/11/27/a-sound-effect-black-friday-deals/">bedroomproducersblog.com</a> | <a href="https://www.asoundeffect.com/sale/">asoundeffect.com</a></p>
+<br clear="all" />
+
+<h2>HoRNet DynEQ Dynamic Equalizer Available for Free</h2>
+<a name="story-28698"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.projethomestudio.fr%2Fwp-content%2Fuploads%2F2018%2F05%2Ftest-hornet-dyneq-fbook.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>HoRNet Plugins is offering its single-band dynamic equalizer plugin, DynEQ, for free for a limited time. Normally priced at €10.99, the plugin can be claimed by adding it to the cart and completing checkout through a registered HoRNet account.</p><p>DynEQ features a parametric band with frequency, gain, and Q controls spanning 20 Hz to 20 kHz with up to 15 dB of boost or cut. It includes auto-speed and auto-threshold functions and supports 64-bit VST, VST3, AU, and AAX formats on Windows and macOS, including Apple Silicon.</p>
+<p>Nov 27 · <a href="https://bedroomproducersblog.com/2026/11/27/hornet-dyneq-free-again/">bedroomproducersblog.com</a> | <a href="https://www.hornetplugins.com/plugins/hornet-dyneq/">hornetplugins.com</a></p>
+<br clear="all" />
+
+<h2>Newfangled Audio Releases Obliterate 2 Free Distortion Plugin</h2>
+<a name="story-28699"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.audiartist.com%2Fwp-content%2Fuploads%2F2025%2F07%2Fmaxresdefault-11.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Newfangled Audio has released Obliterate 2, a free distortion and filter plugin for macOS and Windows. Building on the extreme resonant algorithms of the original release, version 2 introduces six new saturation modes, a noise generation section, a tuned reverb feature, and morph modulation.</p><p>The update expands the plugin's sound design capabilities by adding analog-style saturation, textured noise layers, and automated A-to-B morphing between different parameter states. Available in major plugin formats, Obliterate 2 requires user account creation and online authorization through the developer's licensing system.</p>
+<p>Nov 27 · <a href="https://bedroomproducersblog.com/2026/11/27/newfangled-audio-obliterate-2/">bedroomproducersblog.com</a> | <a href="https://www.newfangledaudio.com/obliterate">newfangledaudio.com</a></p>
+<br clear="all" />
+
 <h2>Initial Audio Updates SourceLab to v2.7</h2>
 <a name="story-28679"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fsl27-video-thumb.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Initial Audio has released version 2.7 of its SourceLab virtual instrument, introducing a new Scale Lock feature and making the wavetable filter available as an effect within the effect rack. The update also adds bank selection directly to the preset drop-down menu and includes an automated notification feature for new software downloads.</p><p>Additional improvements in version 2.7 consist of general performance optimizations for both the user interface and audio engine, reduced memory consumption, and a fix preventing the sample display from unexpectedly zooming out while moving a slice marker. Furthermore, wavetables created in the built-in designer can now be sent straight to the effect rack.</p>
@@ -60,41 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-28651"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fsonible-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Sonible's smart:EQ 4 plugin is currently available at a discounted price of £44 as part of a Black Friday promotion running until December 4. The intelligent equalizer uses artificial intelligence to analyze audio channels, fix spectral issues, balance tones, and handle frequency mapping.</p><p>Version 4 introduces genre-based mix profiles, reference profile matching, and a group mode that coordinates up to ten instances to reduce frequency masking across a project. The software also features dynamic EQ bands with threshold, ratio, and auto-gain controls, designed to provide a balanced starting point before final manual adjustments.</p>
 <p>Nov 26 · <a href="https://musictech.com/news/gear/sonible-smart-eq-4-black-friday-deal/">musictech.com</a> | <a href="https://www.pluginboutique.com/product/2-Effects/16-EQ/11784-smart-EQ-4/?a_aid=5a86bc628c110">pluginboutique.com</a></p>
-<br clear="all" />
-
-<h2>Sound on Digital Releases Mix to Mobile v2.0</h2>
-<a name="story-28641"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fmix-to-mobile-aax.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Sound on Digital has released Mix to Mobile version 2.0, an update to its utility that streams real-time audio from a DAW or computer audio input to mobile devices over a local network. The new version introduces encrypted audio streams, optional listener approval settings to authorize specific devices, and granular quality controls per stream ranging from 16-bit to 32-bit float or compressed formats.</p><p>Version 2.0 also adds configurable receiver latency settings, detailed per-stream connection statistics, and automatic reconnection following network drops. The update is free for existing users, while new licenses cost $39 with a 30-day trial available. The sender requires macOS 11 or Windows 10 and newer, and the free receiver apps are compatible with iOS 14 and Android 10 or later.</p>
-<p>Nov 26 · <a href="https://www.kvraudio.com/news/sound-on-digital-releases-mix-to-mobile-v2-0-with-encrypted-streams-adaptive-latency-and-quality-per-stream-70190?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=70190">kvraudio.com</a> | <a href="https://soundondigital.com/products/mix-to-mobile/">soundondigital.com</a></p>
-<br clear="all" />
-
-<h2>Plugin Boutique Offers Nine Audio Plugins for Five Dollars or Less</h2>
-<a name="story-28652"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FC1HxOj5PDuU%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Plugin Boutique is featuring nine selected virtual instruments and audio effects priced at five dollars or less as part of its ongoing Black Friday sales event. The discounted software lineup includes reverbs, preamps, saturation tools, distortion units, and playable virtual instruments such as Speldosa and Cyberdrive Core.</p><p>In addition to these low-cost plugins, any paid purchase qualifies buyers for a complimentary software gift, with options including the UVI Tape Suite, Evolve Elastic Lite, Roland JUNO-60 Chorus, and Reaktor Prism. Furthermore, shoppers can claim the Scaler Detector key and chord identification tool at no cost until December 7.</p>
-<p>Nov 26 · <a href="https://bedroomproducersblog.com/2026/11/26/plugin-boutique-5-bucks-deals/">bedroomproducersblog.com</a> | <a href="https://www.pluginboutique.com/deals?a_aid=5241029371df5">pluginboutique.com</a></p>
-<br clear="all" />
-
-<h2>Dylan Mixer Releases Kaleidon Spark Free Effects Sequencer Plugin</h2>
-<a name="story-28636"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhelp.stagewave.io%2Fimg%2Freaper-mixer.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Dylan Mixer has released Kaleidon Spark, a free four-lane effects sequencer for macOS and Windows that allows producers to route third-party plugins and built-in effects into rhythmic patterns. Operating via VST3 and AU formats, the plugin lets users sequence step-based activation, adjust wet levels, and shape envelopes, with patterns spanning 8 to 24 steps synced to a DAW.</p><p>The software includes four built-in modules—Repeater, Trimmer, Panner, and Pitcher—while supporting external effect hosting. Obtaining the plugin requires completing a free checkout, installing the Pulse Downloader application, and redeeming a product key. A paid full version is also offered, expanding the rack to eight lanes and adding live MIDI triggering and performance features.</p>
-<p>Nov 26 · <a href="https://bedroomproducersblog.com/2026/11/26/kaleidon-spark-free/">bedroomproducersblog.com</a> | <a href="https://www.dylanmixermusic.com/store-1/p/kaleidon-spark-free">dylanmixermusic.com</a></p>
-<br clear="all" />
-
-<h2>Nail The Mix Offers FreqSniper Resonance-Removal Plugin for Free</h2>
-<a name="story-28637"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FpNnA01OUDhU%2Fhqdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Nail The Mix is offering FreqSniper, an audio resonance-removal EQ plugin, as a free download. The software analyzes incoming audio to detect problem frequencies and suggests targeted static or dynamic cuts to clean up mixes.</p><p>Users can preview individual frequency suggestions, adjust filter depth, frequency, and Q parameters, or use a delta monitoring mode to evaluate the processing. Claiming the plugin requires submitting an email address on the official giveaway page, which opts the user into promotional mailing lists.</p>
-<p>Nov 26 · <a href="https://bedroomproducersblog.com/2026/11/26/nail-the-mix-freqsniper/">bedroomproducersblog.com</a> | <a href="https://www.nailthemix.com/free-freqsniper-plugin">nailthemix.com</a></p>
-<br clear="all" />
-
-<h2>Box Of Rules Makes BR108 Console Channel Strip Plugin Free</h2>
-<a name="story-28638"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.soundshockaudio.com%2Fproducts%2Fchannel-strip-old%2Fthumb.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Box Of Rules has made its BR108 British console channel strip plugin free to download and use, including in commercial productions. Previously available only to paid supporters, the plugin captures the analogue character of a 1980s 24-channel mixing desk using twenty selectable channel profiles derived from measured hardware.</p><p>The software features independent left and right channel strips on stereo tracks, adjustable colour and saturation drive, a warmth control, and a three-band EQ with high-pass and low-pass filters. It is available in AU, VST3, and AAX formats for macOS and Windows, as well as a VST3 build for Linux.</p>
-<p>Nov 26 · <a href="https://bedroomproducersblog.com/2026/11/26/box-of-rules-br108/">bedroomproducersblog.com</a> | <a href="https://boxofrules.com/plugins/br108/">boxofrules.com</a></p>
-<br clear="all" />
-
-<h2>Sync Audio Releases SuperSample Audio Preview Player for macOS and Windows</h2>
-<p>Sync Audio has released SuperSample, a free standalone audio preview application for macOS and Windows. The software allows users to preview audio files directly from Finder or Windows Explorer using the space bar without loading them into a digital audio workstation.</p><p>The free version includes waveform previews, drag-and-drop trimming, and direct file export. An optional Pro version, available after a 14-day trial for a one-time purchase, adds MIDI keyboard playback, varispeed, pitch shifting, time stretching, format conversion, and metadata tools.</p>
-<p>Nov 26 · <a href="https://bedroomproducersblog.com/2026/11/26/sync-audio-supersample/">bedroomproducersblog.com</a> | <a href="https://www.supersampleapp.com/">supersampleapp.com</a></p>
 <br clear="all" />
 
 ---
