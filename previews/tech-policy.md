@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Bipartisan Congressional AI Regulation Efforts Face Legislative Hurdles</h2>
+<a name="story-28682"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F80334c_b73ba4f08d0d44c19a797d6edb837f1f~mv2.png%2Fv1%2Ffill%2Fw_980%2Ch_653%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto%2F80334c_b73ba4f08d0d44c19a797d6edb837f1f~mv2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Bipartisan efforts within the U.S. Congress to implement federal oversight for artificial intelligence are gaining momentum as lawmakers attempt to address rapid technological advancements and a growing patchwork of state-level regulations.</p><p>These legislative initiatives encounter substantial obstacles, including slow procedural paces, jurisdictional turf battles among congressional committees, and sharp disagreements over whether federal legislation should preempt existing state laws.</p>
+<p>Nov 27 · <a href="https://www.nytimes.com/2026/11/26/us/politics/ai-regulation-congress-nvidia.html">nytimes.com</a></p>
+<br clear="all" />
+
 <h2>Florida Man Sentenced to 47 Months in Prison for AI Impersonation of Streamer N3on</h2>
 <a name="story-28675"><img src="https://wsrv.nl/?url=https%3A%2F%2Fondrejkrehel.com%2Fwp-content%2Fuploads%2F2026%2F05%2FVoice-Cloning-Scams-1024x683.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>David Anthony Sanchez of Port St. Lucie, Florida, has been sentenced to 47 months in prison for using artificial intelligence voice cloning and forged identities to impersonate Kick streamer N3on. Sanchez operated online accounts and sent AI-generated voice recordings to trick organizers of a memecoin project into believing the streamer endorsed their venture.</p><p>The scheme resulted in victims transferring approximately $260,000 in cryptocurrency to accounts controlled by Sanchez, who then laundered the funds into U.S. dollars for personal use. He was also ordered to pay restitution to the victims, highlighting the growing prevalence of AI impersonation scams in digital fraud.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-28574"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffiles.tradersunion.com%2Fimages%2Fregional-news%2Fcustom-by-date%2F2026%2F11%2F25%2Fsmall%2F4418653_768.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A coalition of 42 state attorneys general has intervened in Character.ai’s Chapter 11 bankruptcy proceedings to block the chatbot platform from auctioning off the private chat histories and personal data of more than 21 million U.S. accounts. The state officials argue that the proposed sale of sensitive user information—including data from over 2.1 million minors—violates consumer privacy promises and circumvents state protections.</p><p>Character.ai filed for bankruptcy in October following co-founder departures and legal scrutiny regarding child safety issues. Smirks and Pangs Acquisition LLC has emerged as the base bidder for a scheduled December 1 auction, though the winning bidder would not be required to honor Character.ai's existing privacy policies or provide transparency regarding legal and safety issues.</p>
 <p>Nov 25 · <a href="https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/">techcrunch.com</a> | <a href="https://oag.ca.gov/news/press-releases/attorney-general-bonta-opposes-asset-sale-characterai-amid-child-safety-concerns">oag.ca.gov</a></p>
-<br clear="all" />
-
-<h2>Court Documents Reveal Trump Administration Pressure Campaign for Intel Equity Stake</h2>
-<a name="story-28540"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F6b04df84424fd4be0d579981%2Fmaster%2Fw_2560%252Cc_limit%2FHow-Trump-Admin-Got-Piece-of-Intel-Business.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Unsealed court documents from a shareholder lawsuit reveal that the Trump administration used intense pressure tactics to acquire a 10 percent equity stake in Intel in August 2025. Commerce Department officials allegedly told company executives that rejecting the deal would result in unpredictable consequences, forcing the board to comply under the threat of withheld federal CHIPS Act grants.</p><p>The disclosures highlight a broader shift in federal policy prioritizing direct financial returns from private technology companies over traditional economic metrics. Legal challenges filed against Intel and Nvidia argue that these government-backed equity demands and revenue-sharing agreements constitute unlawful coercion and breaches of fiduciary duty by corporate boards.</p>
-<p>Nov 25 · <a href="https://www.wired.com/story/inside-trumps-demands-to-another-chips-ceo/">wired.com</a></p>
 <br clear="all" />
 
 ---

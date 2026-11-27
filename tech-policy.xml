@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-26T23:45:00+00:00</updated>
+  <updated>2026-11-27T00:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Bipartisan Congressional AI Regulation Efforts Face Legislative Hurdles</title>
+    <link href="https://www.nytimes.com/2026/11/26/us/politics/ai-regulation-congress-nvidia.html" rel="alternate" />
+    <id>https://www.nytimes.com/2026/11/26/us/politics/ai-regulation-congress-nvidia.html::v241</id>
+    <published>2026-11-27T00:31:00+00:00</published>
+    <updated>2026-11-27T00:31:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F80334c_b73ba4f08d0d44c19a797d6edb837f1f~mv2.png%2Fv1%2Ffill%2Fw_980%2Ch_653%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto%2F80334c_b73ba4f08d0d44c19a797d6edb837f1f~mv2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.nytimes.com/2026/11/26/us/politics/ai-regulation-congress-nvidia.html">nytimes.com</a></small></p><hr/><p>Bipartisan efforts within the U.S. Congress to implement federal oversight for artificial intelligence are gaining momentum as lawmakers attempt to address rapid technological advancements and a growing patchwork of state-level regulations.</p><p>These legislative initiatives encounter substantial obstacles, including slow procedural paces, jurisdictional turf battles among congressional committees, and sharp disagreements over whether federal legislation should preempt existing state laws.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F80334c_b73ba4f08d0d44c19a797d6edb837f1f~mv2.png%2Fv1%2Ffill%2Fw_980%2Ch_653%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto%2F80334c_b73ba4f08d0d44c19a797d6edb837f1f~mv2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Nov 2026, 10:32 UTC | #28682</small>]]></content>
+  </entry>
   <entry>
     <title>Florida Man Sentenced to 47 Months in Prison for AI Impersonation of Streamer N3on</title>
     <link href="https://aftermath.site/n3on-impersonator-ai-prison-260000-dollars-kick-stream/" rel="alternate" />
