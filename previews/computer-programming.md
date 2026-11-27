@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Well-Typed Publishes Haskell Exception Best Practices Guide</h2>
+<p>Well-Typed has published a comprehensive guide detailing best practices for exception handling in Haskell, focusing on three core goals: preventing resource leaks, ensuring program progress, and ensuring failures reach appropriate handlers. The blog post examines foundational concepts such as synchronous versus asynchronous exceptions, safe resource management with the bracket combinator, and the risks associated with catching blanket SomeException types.</p><p>The guide also addresses advanced topics, including avoiding unbounded handler nesting, distinguishing between synchronous and asynchronous exceptions via internal wrappers like SomeAsyncException, and designing cancellable operations. It marks the first installment in a multi-part series on Haskell exceptions by the consultancy.</p>
+<p>Nov 27 · <a href="https://www.well-typed.com/blog/2026/11/exception-best-practices/">well-typed.com</a> | <a href="https://lobste.rs/s/tgihkm/exception_best_practices">lobsters</a></p>
+<br clear="all" />
+
 <h2>Tiny Hat Linux Distribution Released for Retro Gaming and Development</h2>
 <p>Tiny Hat is a lightweight Linux distribution built for 32-bit and 64-bit x86 computers, focusing on retro gaming and retro game development. The signed, fully reproducible OS image boots using less than 100 megabytes of RAM and requires just over 600 megabytes of disk space, making it fully functional on a 1GB memory stick.</p><p>The distribution incorporates modern libraries and components such as SDL3, PipeWire, Raylib, the dwl Wayland compositor, and the Orbiton editor. It provides built-in support for compiling and running programs in C, DOS Assembly, GBA, and LÖVE with Fennel, alongside experimental compatibility for aarch64 architectures and the Raspberry Pi 4.</p>
 <p>Nov 27 · <a href="https://roboticoverlords.org/tinyhat">roboticoverlords.org</a> | <a href="https://lobste.rs/s/mbm7xw/tiny_hat_new_linux_distro_dedicated_retro">lobsters</a></p>
@@ -88,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-28674"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthreatmodel.co%2Fblog%2FPlan-Then-Execute-Pattern.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Software developer Jack Kelly explains how decoupling decision-making from execution—a pattern he calls "making the plan a value"—simplifies complex codebases and facilitates testing. He describes applying this approach during a refactoring of amazonka, an unofficial Haskell AWS SDK, to support idempotency tokens and diverse service response styles.</p><p>By introducing an intermediate data structure to describe tasks before execution, developers can adopt the strangler fig pattern to incrementally replace entangled logic while maintaining golden tests. Kelly notes that this architecture enables features like dry runs, pre-execution validation, and alternative plan producers such as property-based testing.</p>
 <p>Nov 26 · <a href="https://jackkelly.name/blog/archives/2026/11/26/make_the_plan_a_value">jackkelly.name</a> | <a href="https://lobste.rs/s/9imhob/make_plan_value">lobsters</a></p>
-<br clear="all" />
-
-<h2>Marcin Wichary Publishes Preserved UI Style Guides Collection</h2>
-<a name="story-28668"><img src="https://wsrv.nl/?url=https%3A%2F%2Fspeckyboy.com%2Fwp-content%2Fuploads%2F2014%2F12%2Fstyleguides_06.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Designer and author Marcin Wichary has released a curated collection of historical user interface style guides spanning from the early 1980s to the present day. The archive features interface guidelines from various operating systems and software projects, categorized by era and theme.</p><p>Featured materials include documentation for early systems such as KDE, the 1991 PenPoint tablet operating system by GO Corporation, and the 1995 Taligent CommonPoint framework. The collection provides downloadable archives and mirrored web pages for historical reference and interface design research.</p>
-<p>Nov 26 · <a href="https://aresluna.org/ui-style-guides/">aresluna.org</a> | <a href="https://lobste.rs/s/pbfhis/ui_style_guides">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50649834">hacker news</a></p>
 <br clear="all" />
 
 ---

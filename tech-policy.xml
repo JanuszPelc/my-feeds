@@ -3,9 +3,17 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-27T00:31:00+00:00</updated>
+  <updated>2026-11-27T14:30:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Kansas City Officials Reject Proposal for 20-Story Vertical Data Center</title>
+    <link href="https://www.nytimes.com/2026/11/26/business/energy-environment/vertical-data-center-kansas-city.html" rel="alternate" />
+    <id>https://www.nytimes.com/2026/11/26/business/energy-environment/vertical-data-center-kansas-city.html::v241</id>
+    <published>2026-11-27T14:30:00+00:00</published>
+    <updated>2026-11-27T14:30:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.nytimes.com/2026/11/26/business/energy-environment/vertical-data-center-kansas-city.html">nytimes.com</a></small></p><hr/><p>As demand for artificial intelligence infrastructure surges, developers are increasingly exploring vertical data centers—multi-story urban facilities designed to bypass the land constraints typical of sprawling suburban campuses. While common in space-constrained international markets like Taiwan, these high-rise developments face significant engineering, cost, and community hurdles.</p><p>Illustrating these local tensions, the Kansas City Plan Commission recently voted down a proposal for a 20-story vertical data center in a historic downtown neighborhood. Residents and city officials raised concerns over the facility's immense power demands, noise, and architectural impact, highlighting the growing friction between expanding tech infrastructure and urban preservation.</p><hr/><small>27 Nov 2026, 20:28 UTC | #28704</small>]]></content>
+  </entry>
   <entry>
     <title>Bipartisan Congressional AI Regulation Efforts Face Legislative Hurdles</title>
     <link href="https://www.nytimes.com/2026/11/26/us/politics/ai-regulation-congress-nvidia.html" rel="alternate" />

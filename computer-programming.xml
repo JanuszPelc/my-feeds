@@ -3,9 +3,17 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-27T11:00:00+00:00</updated>
+  <updated>2026-11-27T14:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Well-Typed Publishes Haskell Exception Best Practices Guide</title>
+    <link href="https://www.well-typed.com/blog/2026/11/exception-best-practices/" rel="alternate" />
+    <id>https://www.well-typed.com/blog/2026/11/exception-best-practices/::v241</id>
+    <published>2026-11-27T14:31:00+00:00</published>
+    <updated>2026-11-27T14:31:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.well-typed.com/blog/2026/11/exception-best-practices/">well-typed.com</a> | <a href="https://lobste.rs/s/tgihkm/exception_best_practices">lobsters</a></small></p><hr/><p>Well-Typed has published a comprehensive guide detailing best practices for exception handling in Haskell, focusing on three core goals: preventing resource leaks, ensuring program progress, and ensuring failures reach appropriate handlers. The blog post examines foundational concepts such as synchronous versus asynchronous exceptions, safe resource management with the bracket combinator, and the risks associated with catching blanket SomeException types.</p><p>The guide also addresses advanced topics, including avoiding unbounded handler nesting, distinguishing between synchronous and asynchronous exceptions via internal wrappers like SomeAsyncException, and designing cancellable operations. It marks the first installment in a multi-part series on Haskell exceptions by the consultancy.</p><hr/><small>27 Nov 2026, 20:28 UTC | #28737</small>]]></content>
+  </entry>
   <entry>
     <title>Tiny Hat Linux Distribution Released for Retro Gaming and Development</title>
     <link href="https://roboticoverlords.org/tinyhat" rel="alternate" />
