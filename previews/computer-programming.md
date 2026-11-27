@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Exploring Use Cases for Custom Allocators in Rust</h2>
+<a name="story-28740"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1024%2F1%2A4_Iq_uCKo6bRdg8vxzMi-A.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Following the recent stabilization of the core allocator API in Rust 1.100.0, developers can leverage custom allocators to tailor memory management for specific application performance patterns. Practical examples include bump allocators for rapid batch deallocation in burst workloads, accounted allocators for tracking memory usage and triggering thresholds, and specialized placement strategies like stack-first storage or block-aligned allocation for direct file I/O.</p><p>These patterns demonstrate how localized allocation control can reduce system allocator overhead, improve cache efficiency, and avoid issues like page cache overhead in Linux systems. By implementing custom allocator strategies directly through standard traits, developers gain fine-grained control over where and when memory lives without relying solely on third-party data types.</p>
+<p>Nov 27 · <a href="https://cetra3.github.io/blog/state-of-allocators-2026-finally-stabilised/">cetra3.github.io</a> | <a href="https://lobste.rs/s/u746hs/state_allocators_2026_finally">lobsters</a></p>
+<br clear="all" />
+
 <h2>Well-Typed Publishes Haskell Exception Best Practices Guide</h2>
 <p>Well-Typed has published a comprehensive guide detailing best practices for exception handling in Haskell, focusing on three core goals: preventing resource leaks, ensuring program progress, and ensuring failures reach appropriate handlers. The blog post examines foundational concepts such as synchronous versus asynchronous exceptions, safe resource management with the bracket combinator, and the risks associated with catching blanket SomeException types.</p><p>The guide also addresses advanced topics, including avoiding unbounded handler nesting, distinguishing between synchronous and asynchronous exceptions via internal wrappers like SomeAsyncException, and designing cancellable operations. It marks the first installment in a multi-part series on Haskell exceptions by the consultancy.</p>
 <p>Nov 27 · <a href="https://www.well-typed.com/blog/2026/11/exception-best-practices/">well-typed.com</a> | <a href="https://lobste.rs/s/tgihkm/exception_best_practices">lobsters</a></p>
@@ -87,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-28677"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2Fintel%2Fintel-one-mono%2Fraw%2Fmain%2Fimg%2Fintel-one-mono-preview-image.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Intel One Mono is an open-source, expressive monospaced font family created in partnership with Frere-Jones Type, the Intel Brand Team, and VMLY&amp;R. Designed specifically for low-vision developers, the typeface aims to enhance clarity, reduce eyestrain and coding errors, and support over 200 Latin-script languages across four weights with matching italics.</p><p>The repository provides official font releases ready for code editors like VSCode, Sublime Text, and IntelliJ, alongside editable UFO source files and designspace files for customization. It also includes configuration options for programming ligatures, alternate characters, raised colons, and custom screen rendering optimizations.</p>
 <p>Nov 26 · <a href="https://github.com/intel/intel-one-mono">github.com</a> | <a href="https://news.ycombinator.com/item?id=50653667">hacker news</a></p>
-<br clear="all" />
-
-<h2>Jack Kelly on Applying the Plan-Execute Pattern to Amazonka</h2>
-<a name="story-28674"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthreatmodel.co%2Fblog%2FPlan-Then-Execute-Pattern.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Software developer Jack Kelly explains how decoupling decision-making from execution—a pattern he calls "making the plan a value"—simplifies complex codebases and facilitates testing. He describes applying this approach during a refactoring of amazonka, an unofficial Haskell AWS SDK, to support idempotency tokens and diverse service response styles.</p><p>By introducing an intermediate data structure to describe tasks before execution, developers can adopt the strangler fig pattern to incrementally replace entangled logic while maintaining golden tests. Kelly notes that this architecture enables features like dry runs, pre-execution validation, and alternative plan producers such as property-based testing.</p>
-<p>Nov 26 · <a href="https://jackkelly.name/blog/archives/2026/11/26/make_the_plan_a_value">jackkelly.name</a> | <a href="https://lobste.rs/s/9imhob/make_plan_value">lobsters</a></p>
 <br clear="all" />
 
 ---

@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-27T14:31:00+00:00</updated>
+  <updated>2026-11-27T18:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Exploring Use Cases for Custom Allocators in Rust</title>
+    <link href="https://cetra3.github.io/blog/state-of-allocators-2026-finally-stabilised/" rel="alternate" />
+    <id>https://cetra3.github.io/blog/state-of-allocators-2026-finally-stabilised/::v241</id>
+    <published>2026-11-27T18:18:00+00:00</published>
+    <updated>2026-11-27T18:18:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1024%2F1%2A4_Iq_uCKo6bRdg8vxzMi-A.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://cetra3.github.io/blog/state-of-allocators-2026-finally-stabilised/">cetra3.github.io</a> | <a href="https://lobste.rs/s/u746hs/state_allocators_2026_finally">lobsters</a></small></p><hr/><p>Following the recent stabilization of the core allocator API in Rust 1.100.0, developers can leverage custom allocators to tailor memory management for specific application performance patterns. Practical examples include bump allocators for rapid batch deallocation in burst workloads, accounted allocators for tracking memory usage and triggering thresholds, and specialized placement strategies like stack-first storage or block-aligned allocation for direct file I/O.</p><p>These patterns demonstrate how localized allocation control can reduce system allocator overhead, improve cache efficiency, and avoid issues like page cache overhead in Linux systems. By implementing custom allocator strategies directly through standard traits, developers gain fine-grained control over where and when memory lives without relying solely on third-party data types.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1024%2F1%2A4_Iq_uCKo6bRdg8vxzMi-A.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Nov 2026, 23:28 UTC | #28740</small>]]></content>
+  </entry>
   <entry>
     <title>Well-Typed Publishes Haskell Exception Best Practices Guide</title>
     <link href="https://www.well-typed.com/blog/2026/11/exception-best-practices/" rel="alternate" />
