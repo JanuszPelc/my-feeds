@@ -3,9 +3,17 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-26T19:18:00+00:00</updated>
+  <updated>2026-11-26T20:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Nextcloud Releases Euro-Office-Powered Desktop App</title>
+    <link href="https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/" rel="alternate" />
+    <id>https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/::v241</id>
+    <published>2026-11-26T20:09:00+00:00</published>
+    <updated>2026-11-26T20:09:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/">nextcloud.com</a> | <a href="https://news.ycombinator.com/item?id=50654289">hacker news</a></small></p><hr/><p>Nextcloud has released the Nextcloud Office Desktop app, bringing its Euro-Office collaborative suite to Windows, macOS, and Linux. The free and open-source application includes editors for text documents, spreadsheets, presentations, and PDFs with high compatibility for both Microsoft Office and open document formats.</p><p>The app supports offline editing, local font integration, digital signatures, and file protection features like password encryption and permission controls. Users can connect the desktop app to their Nextcloud Hub instances to seamlessly access and co-edit files with team members in real time.</p><hr/><small>27 Nov 2026, 02:09 UTC | #28685</small>]]></content>
+  </entry>
   <entry>
     <title>Tabc Container Runtime Executes Docker Containers in Browser Tabs</title>
     <link href="https://fzakaria.com/2026/11/25/browser-tabs-as-a-container-runtime" rel="alternate" />
