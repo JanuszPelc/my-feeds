@@ -3,9 +3,17 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-27T10:04:00+00:00</updated>
+  <updated>2026-11-27T11:00:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Tiny Hat Linux Distribution Released for Retro Gaming and Development</title>
+    <link href="https://roboticoverlords.org/tinyhat" rel="alternate" />
+    <id>https://roboticoverlords.org/tinyhat::v241</id>
+    <published>2026-11-27T11:00:00+00:00</published>
+    <updated>2026-11-27T11:00:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://roboticoverlords.org/tinyhat">roboticoverlords.org</a> | <a href="https://lobste.rs/s/mbm7xw/tiny_hat_new_linux_distro_dedicated_retro">lobsters</a></small></p><hr/><p>Tiny Hat is a lightweight Linux distribution built for 32-bit and 64-bit x86 computers, focusing on retro gaming and retro game development. The signed, fully reproducible OS image boots using less than 100 megabytes of RAM and requires just over 600 megabytes of disk space, making it fully functional on a 1GB memory stick.</p><p>The distribution incorporates modern libraries and components such as SDL3, PipeWire, Raylib, the dwl Wayland compositor, and the Orbiton editor. It provides built-in support for compiling and running programs in C, DOS Assembly, GBA, and LÖVE with Fennel, alongside experimental compatibility for aarch64 architectures and the Raspberry Pi 4.</p><hr/><small>27 Nov 2026, 16:35 UTC | #28725</small>]]></content>
+  </entry>
   <entry>
     <title>Pimalaya Releases Stable CLI Tools and Pimdir Standard</title>
     <link href="https://blog.pimalaya.org/pimalaya-goes-stable/" rel="alternate" />

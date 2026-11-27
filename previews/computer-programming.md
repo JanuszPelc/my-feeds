@@ -8,6 +8,11 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Tiny Hat Linux Distribution Released for Retro Gaming and Development</h2>
+<p>Tiny Hat is a lightweight Linux distribution built for 32-bit and 64-bit x86 computers, focusing on retro gaming and retro game development. The signed, fully reproducible OS image boots using less than 100 megabytes of RAM and requires just over 600 megabytes of disk space, making it fully functional on a 1GB memory stick.</p><p>The distribution incorporates modern libraries and components such as SDL3, PipeWire, Raylib, the dwl Wayland compositor, and the Orbiton editor. It provides built-in support for compiling and running programs in C, DOS Assembly, GBA, and LÖVE with Fennel, alongside experimental compatibility for aarch64 architectures and the Raspberry Pi 4.</p>
+<p>Nov 27 · <a href="https://roboticoverlords.org/tinyhat">roboticoverlords.org</a> | <a href="https://lobste.rs/s/mbm7xw/tiny_hat_new_linux_distro_dedicated_retro">lobsters</a></p>
+<br clear="all" />
+
 <h2>Pimalaya Releases Stable CLI Tools and Pimdir Standard</h2>
 <a name="story-28722"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimgcdn.stablediffusionweb.com%2F2025%2F4%2F28%2Fede5a6a0-a84d-41b0-9704-ac22270a2dc9.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Pimalaya has released its entire family of command-line interface tools—including Himalaya, Neverest, Cardamum, Calendula, Carillon, Ortie, and Comodoro—alongside version 1.0.0 of the pimdir local-first personal information standard. The simultaneous release aligns all tools around shared libraries, a unified JSON output contract, and a standardized REPL and Model Context Protocol (MCP) server.</p><p>The update introduces major breaking changes, such as removing built-in configuration wizards in favor of sample files and CLI discovery tools, while establishing a permanent v1 schema for the pimdir SQLite-based storage format. The components now support unified APIs across multiple backend providers like IMAP, JMAP, and CalDAV, following extensive automated testing to ensure reliability.</p>
@@ -89,11 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-28668"><img src="https://wsrv.nl/?url=https%3A%2F%2Fspeckyboy.com%2Fwp-content%2Fuploads%2F2014%2F12%2Fstyleguides_06.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Designer and author Marcin Wichary has released a curated collection of historical user interface style guides spanning from the early 1980s to the present day. The archive features interface guidelines from various operating systems and software projects, categorized by era and theme.</p><p>Featured materials include documentation for early systems such as KDE, the 1991 PenPoint tablet operating system by GO Corporation, and the 1995 Taligent CommonPoint framework. The collection provides downloadable archives and mirrored web pages for historical reference and interface design research.</p>
 <p>Nov 26 · <a href="https://aresluna.org/ui-style-guides/">aresluna.org</a> | <a href="https://lobste.rs/s/pbfhis/ui_style_guides">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50649834">hacker news</a></p>
-<br clear="all" />
-
-<h2>Implementing Typed Indices in Zig</h2>
-<p>The "Newtype Index" pattern in Zig prevents logic errors by ensuring that different arrays or slices cannot be accessed using the same index type. By utilizing `enum(u32)` to wrap integers, the compiler can catch instances where a developer accidentally swaps indices—for example, using a row index to access a column value in a spreadsheet—at compile time rather than at runtime.</p><p>The article demonstrates a practical "Struct of Arrays" example and offers a generic recipe using Zig's `comptime` functionality. This approach allows for a streamlined, automated way to define typed indices for multiple struct fields while providing a consistent accessor API. While the pattern is not perfectly hermetic due to the lack of private fields in Zig, it establishes a strong convention for safe data access.</p>
-<p>Nov 26 · <a href="https://lvignoli.eu/posts/2026-11-16-typed-indexes-in-zig/">lvignoli.eu</a> | <a href="https://lobste.rs/s/l6g7j1/typed_indexes_zig">lobsters</a></p>
 <br clear="all" />
 
 ---
