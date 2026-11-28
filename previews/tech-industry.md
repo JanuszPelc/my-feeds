@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>European Central Bank Reports European Workers&#x27; AI Use On Par With US Peers</h2>
+<a name="story-28733"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmyassets.theedgemalaysia.com%2Fpics%2F2026%2Feuchart476710766_20261127193217_enlfau.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>According to a European Central Bank survey, 44% of employed euro area consumers reported using artificial intelligence at least weekly at work in August, matching the adoption rate of their US peers. Furthermore, 18% of European workers indicated they used AI on a daily basis, surpassing levels recorded in the United States.</p><p>The findings stem from the ECB's Consumer Expectations Survey, though officials note that direct comparisons between the ECB and US Gallup surveys carry methodological caveats. While adoption rates have climbed significantly across the region, economists point out that productivity gains and implementation barriers remain unevenly distributed among workers and firms.</p>
+<p>Nov 27 · <a href="https://www.bloomberg.com/news/articles/2026-11-27/european-workers-ai-use-on-par-with-that-of-us-peers-ecb-says">bloomberg.com</a> | <a href="https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20261127~81118f8ec0.en.html">ecb.europa.eu</a></p>
+<br clear="all" />
+
 <h2>Meta Faces Higher Liability Standards for Muse AI Agent U.K. Rollout</h2>
 <a name="story-28723"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.mirrorreview.com%2Fwp-content%2Fuploads%2F2026%2F04%2FMetas-Muse-Spark-Turns-AI-Into-a-Multi-Agent-Problem-Solver.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Meta’s terms of service for its Muse personal AI agent in the U.K. impose higher liability standards on the company compared to the U.S., following discussions with British regulators.</p><p>Unlike U.S. terms that cap liability at $250 and disclaim responsibility for erroneous actions, the U.K. terms lack a financial cap and reflect standard U.K. consumer law requirements for professional diligence, setting a potential precedent as personal AI agents expand globally.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-28590"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2FWhatsApp-schedule.jpg%3Fw%3D1024&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>WhatsApp has begun rolling out a message-scheduling feature globally across iOS and Android, allowing users to schedule texts, photos, and videos in both individual and group chats. To use the function, users long-press the send button after drafting a message, selecting a delivery time between 10 minutes and 14 days in advance.</p><p>The scheduled messages will be sent automatically even if the user's phone is offline or outside network coverage. While competing apps like Telegram and Signal have long offered message scheduling, the Meta-owned messaging service's new addition provides a practical tool for managing cross-timezone communication, reminders, and professional coordination.</p>
 <p>Nov 25 · <a href="https://techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats/">techcrunch.com</a> | <a href="https://blog.whatsapp.com/say-it-at-the-right-time-with-scheduled-messages">blog.whatsapp.com</a></p>
-<br clear="all" />
-
-<h2>Andreessen Horowitz Eyes $20 Billion for Next Fundraise</h2>
-<a name="story-28587"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21r9sl%21%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc4f37436-ce30-4f7e-b598-617b688363f4_2064x1128.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Venture capital firm Andreessen Horowitz is in discussions to raise approximately $20 billion across its upcoming set of funds, according to sources familiar with the plans. The potential capital raise follows the firm's previous record-breaking $15 billion fundraise.</p><p>The push toward larger megafunds highlights the accelerating capital demands driven by artificial intelligence investments, which require larger and faster financial commitments. Venture firms are increasingly seeking massive capital pools to sustain investments in infrastructure and technology companies.</p>
-<p>Nov 25 · <a href="https://www.axios.com/pro/all-deals/2026/11/25/andreessen-horowitz-20b-fundraise">axios.com</a></p>
 <br clear="all" />
 
 ---
