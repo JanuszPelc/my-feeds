@@ -3,7 +3,7 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-27T20:08:00+00:00</updated>
+  <updated>2026-11-28T08:40:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
   <entry>
@@ -367,9 +367,9 @@
     <link href="https://www.nytimes.com/2026/11/23/technology/spacex-lawsuit-ai-sexualized-images.html" rel="alternate" />
     <id>https://www.nytimes.com/2026/11/23/technology/spacex-lawsuit-ai-sexualized-images.html::v241</id>
     <published>2026-11-23T15:24:00+00:00</published>
-    <updated>2026-11-23T15:24:00+00:00</updated>
+    <updated>2026-11-28T08:40:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.digit.in%2FElon-Musk-SpaceX-Grok-AI.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.nytimes.com/2026/11/23/technology/spacex-lawsuit-ai-sexualized-images.html">nytimes.com</a></small></p><hr/><p>The states of Oregon and Virginia have filed lawsuits against SpaceX, alleging that its Grok Imagine artificial intelligence tool violated consumer protection laws. The suits claim that Grok's "spicy mode" enabled the creation of more than 1.8 million sexualized images of women and at least 65 images of children. The legal actions argue that the company marketed the tool as safe while failing to implement standard safeguards against generating nonconsensual and explicit content.</p><p>These lawsuits are the first state-level actions against SpaceX regarding Grok's content generation. They follow a January 2026 bipartisan letter from 35 attorneys general demanding that xAI restrict the production of intimate and child sexual abuse material. The litigation highlights growing regulatory scrutiny over "nudification" technologies and the legal responsibilities of AI developers in preventing the generation of nonconsensual deepfakes.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.digit.in%2FElon-Musk-SpaceX-Grok-AI.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>24 Nov 2026, 06:54 UTC | #28319</small>]]></content>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.nytimes.com/2026/11/23/technology/spacex-lawsuit-ai-sexualized-images.html">nytimes.com</a> | <a href="https://news.ycombinator.com/item?id=50670855">hacker news</a></small></p><hr/><p>The states of Oregon and Virginia have filed lawsuits against SpaceX, alleging that its Grok Imagine artificial intelligence tool violated consumer protection laws. The suits claim that Grok's "spicy mode" enabled the creation of more than 1.8 million sexualized images of women and at least 65 images of children. The legal actions argue that the company marketed the tool as safe while failing to implement standard safeguards against generating nonconsensual and explicit content.</p><p>These lawsuits are the first state-level actions against SpaceX regarding Grok's content generation. They follow a January 2026 bipartisan letter from 35 attorneys general demanding that xAI restrict the production of intimate and child sexual abuse material. The litigation highlights growing regulatory scrutiny over "nudification" technologies and the legal responsibilities of AI developers in preventing the generation of nonconsensual deepfakes.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.digit.in%2FElon-Musk-SpaceX-Grok-AI.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>24 Nov 2026, 06:54 UTC | #28319</small>]]></content>
   </entry>
   <entry>
     <title>Nvidia CEO Jensen Huang Lobbies Trump Administration for China Chip Sales</title>
