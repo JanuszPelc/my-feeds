@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-27T18:32:00+00:00</updated>
+  <updated>2026-11-27T20:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Why Optimistic UI Updates Are Corrosive to User Trust</title>
+    <link href="https://datastar-instant-intent.ndyg.cross.stream/corrosive/" rel="alternate" />
+    <id>https://datastar-instant-intent.ndyg.cross.stream/corrosive/::v241</id>
+    <published>2026-11-27T20:02:00+00:00</published>
+    <updated>2026-11-27T20:02:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia2.dev.to%2Fdynamic%2Fimage%2Fwidth%3D1200%2Cheight%3D627%2Cfit%3Dcover%2Cgravity%3Dauto%2Cformat%3Dauto%2Fhttps%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyyvbc3m75znrkt2z5scc.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://datastar-instant-intent.ndyg.cross.stream/corrosive/">datastar-instant-intent.ndyg.cross.stream</a> | <a href="https://lobste.rs/s/amjski/why_optimistic_updates_are_corrosive">lobsters</a></small></p><hr/><p>Optimistic UI updates normalize software that deceives users by displaying unverified states before server confirmation. When actions like liking a post or flipping a switch appear successful immediately but fail silently in the background, it erodes trust and requires complex reconciliation machinery to manage desynchronization.</p><p>Avoiding optimistic updates ensures that software communicates known truths to users while simplifying development by letting the backend act as the single source of truth. Using tools like Datastar, developers can display precise client-side feedback—such as loading states and blinking indicators—without lying about whether a request has actually succeeded.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia2.dev.to%2Fdynamic%2Fimage%2Fwidth%3D1200%2Cheight%3D627%2Cfit%3Dcover%2Cgravity%3Dauto%2Cformat%3Dauto%2Fhttps%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyyvbc3m75znrkt2z5scc.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Nov 2026, 03:27 UTC | #28749</small>]]></content>
+  </entry>
   <entry>
     <title>Objections Filed Against Automattic .php TLD Application on ICANN Forum</title>
     <link href="https://pub.roddie.digital/3n3aavxi6hc2g" rel="alternate" />

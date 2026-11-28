@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Why Optimistic UI Updates Are Corrosive to User Trust</h2>
+<a name="story-28749"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia2.dev.to%2Fdynamic%2Fimage%2Fwidth%3D1200%2Cheight%3D627%2Cfit%3Dcover%2Cgravity%3Dauto%2Cformat%3Dauto%2Fhttps%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyyvbc3m75znrkt2z5scc.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Optimistic UI updates normalize software that deceives users by displaying unverified states before server confirmation. When actions like liking a post or flipping a switch appear successful immediately but fail silently in the background, it erodes trust and requires complex reconciliation machinery to manage desynchronization.</p><p>Avoiding optimistic updates ensures that software communicates known truths to users while simplifying development by letting the backend act as the single source of truth. Using tools like Datastar, developers can display precise client-side feedback—such as loading states and blinking indicators—without lying about whether a request has actually succeeded.</p>
+<p>Nov 27 · <a href="https://datastar-instant-intent.ndyg.cross.stream/corrosive/">datastar-instant-intent.ndyg.cross.stream</a> | <a href="https://lobste.rs/s/amjski/why_optimistic_updates_are_corrosive">lobsters</a></p>
+<br clear="all" />
+
 <h2>Objections Filed Against Automattic .php TLD Application on ICANN Forum</h2>
 <a name="story-28747"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.businessworld.in%2Fdsew%2B%281%29_20251225102732_original_image_34.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Public comments published on ICANN’s Application Comment Forum show growing opposition to Automattic’s bid to register .php as a generic top-level domain. Developers, security professionals, and community figures have submitted formal objections arguing against granting a single private company control over an established open-source language ecosystem.</p><p>Objectors warn that turning a ubiquitous file extension into a top-level domain introduces severe technical parsing conflicts and heightened phishing and impersonation risks. Critics also note that Automattic lacks governing authority over PHP—which is managed collectively through the PHP project and The PHP Foundation—raising concerns about inappropriate trademark appropriation and market confusion.</p>
@@ -87,11 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-28686"><img src="https://wsrv.nl/?url=https%3A%2F%2Fchangelog.complete.org%2Ffiles_changelog%2F2026%2F11%2Falpha-2002.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Software engineer John Goerzen successfully restored and booted a Linux system from a 2002 Exabyte tape backup using an original DEC AlphaPC 164LX workstation. The backups, originally created with Amanda, were extracted using an eBay-purchased tape drive and processed inside a customized Docker container to handle bzip2-compressed archives.</p><p>To avoid damaging aging hardware, Goerzen deployed a BlueSCSI emulator with an SD card to host the disk images. After resolving kernel compatibility issues, network configuration, and video card adjustments, the restored environment successfully booted into KDE 2, allowing access to historical files, mailboxes, and period-appropriate web browsing via Protoweb.</p>
 <p>Nov 26 · <a href="https://changelog.complete.org/archives/45268-i-booted-from-my-tape-backup-from-2002">changelog.complete.org</a> | <a href="https://lobste.rs/s/2thnmt/i_booted_from_my_tape_backup_from_2002">lobsters</a></p>
-<br clear="all" />
-
-<h2>Nextcloud Releases Euro-Office-Powered Desktop App</h2>
-<p>Nextcloud has released the Nextcloud Office Desktop app, bringing its Euro-Office collaborative suite to Windows, macOS, and Linux. The free and open-source application includes editors for text documents, spreadsheets, presentations, and PDFs with high compatibility for both Microsoft Office and open document formats.</p><p>The app supports offline editing, local font integration, digital signatures, and file protection features like password encryption and permission controls. Users can connect the desktop app to their Nextcloud Hub instances to seamlessly access and co-edit files with team members in real time.</p>
-<p>Nov 26 · <a href="https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/">nextcloud.com</a> | <a href="https://news.ycombinator.com/item?id=50654289">hacker news</a></p>
 <br clear="all" />
 
 ---
