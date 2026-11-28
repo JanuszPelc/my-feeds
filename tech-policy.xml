@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-11-27T18:25:00+00:00</updated>
+  <updated>2026-11-27T20:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>OpenAI Countersues Apple Over Alleged Trade Secret Theft and Supplier Pressures</title>
+    <link href="https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4" rel="alternate" />
+    <id>https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4::v241</id>
+    <published>2026-11-27T20:08:00+00:00</published>
+    <updated>2026-11-27T20:08:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.timesnownews.com%2Fthumb%2Fmsid-155085846%2Cthumbsize-2325459%2Cwidth-1280%2Cheight-720%2Cresizemode-75%2F155085846.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4">ft.com</a></small></p><hr/><p>OpenAI has filed a countersuit against Apple, accusing the iPhone maker of misappropriating trade secrets through a staffer who returned to Apple and engaging in coercive tactics against shared hardware suppliers. The legal escalation responds to an earlier lawsuit filed by Apple regarding hardware secrets and employee poaching.</p><p>According to the countersuit, Apple has pressured shared suppliers to undermine OpenAI's independent device development efforts and hinder its hardware initiatives. The widening dispute intensifies the legal conflict between the two companies as they compete across artificial intelligence software and emerging hardware markets.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.timesnownews.com%2Fthumb%2Fmsid-155085846%2Cthumbsize-2325459%2Cwidth-1280%2Cheight-720%2Cresizemode-75%2F155085846.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Nov 2026, 05:08 UTC | #28734</small>]]></content>
+  </entry>
   <entry>
     <title>Huawei Emerges as Central Pillar of China's AI Strategy Following U.S. Restrictions</title>
     <link href="https://www.nytimes.com/2026/11/26/business/huawei-trump-china-ai.html?unlocked_article_code=1.TlE.eHV_.2f70GvuLgZxe&amp;smid=nytcore-ios-share" rel="alternate" />

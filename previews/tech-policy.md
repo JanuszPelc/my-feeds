@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>OpenAI Countersues Apple Over Alleged Trade Secret Theft and Supplier Pressures</h2>
+<a name="story-28734"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.timesnownews.com%2Fthumb%2Fmsid-155085846%2Cthumbsize-2325459%2Cwidth-1280%2Cheight-720%2Cresizemode-75%2F155085846.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>OpenAI has filed a countersuit against Apple, accusing the iPhone maker of misappropriating trade secrets through a staffer who returned to Apple and engaging in coercive tactics against shared hardware suppliers. The legal escalation responds to an earlier lawsuit filed by Apple regarding hardware secrets and employee poaching.</p><p>According to the countersuit, Apple has pressured shared suppliers to undermine OpenAI's independent device development efforts and hinder its hardware initiatives. The widening dispute intensifies the legal conflict between the two companies as they compete across artificial intelligence software and emerging hardware markets.</p>
+<p>Nov 27 · <a href="https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4">ft.com</a></p>
+<br clear="all" />
+
 <h2>Huawei Emerges as Central Pillar of China&#x27;s AI Strategy Following U.S. Restrictions</h2>
 <a name="story-28718"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHEFoUEfaEAASUN0.jpg%3Fname%3Dorig&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Interviews with Huawei CEO Ren Zhengfei and industry figures highlight how U.S. restrictions initiated under the Trump administration inadvertently propelled Huawei toward technological self-reliance. As access to advanced American semiconductors narrows, Huawei has positioned itself at the core of China's artificial intelligence ambitions.</p><p>Despite a persistent technological gap compared to rivals like Nvidia, Huawei has captured a substantial share of the domestic AI chip market. The company's expansion underscores Beijing's broader strategic push for domestic technological independence amid escalating trade and tech curbs from Washington.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <a name="story-28592"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.thecoinrepublic.com%2Fwp-content%2Fuploads%2F2026%2F03%2F14abkeBZEtYurJtH23iIJpY17tbFVUDy1.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Nvidia has agreed to pay $290 million to settle a long-running shareholder class action lawsuit in the U.S. District Court for the Northern District of California. The litigation alleged that the chipmaker misled investors about how heavily cryptocurrency mining was driving its graphics processing unit sales between 2017 and 2018.</p><p>Filed on November 24, the proposed settlement covers investors who purchased shares from August 10, 2017, to November 15, 2018, and will be funded largely by insurance. Plaintiffs' attorneys have requested up to $62 million in legal fees, and the agreement remains subject to final court approval.</p>
 <p>Nov 25 · <a href="https://www.reuters.com/legal/government/nvidia-agrees-settle-2018-us-investor-class-action-for-290-million-2026-11-25/">reuters.com</a></p>
-<br clear="all" />
-
-<h2>US Justice Department Did Not Open Formal Probe Into Jensen Huang Before Reinstatement</h2>
-<a name="story-28591"><img src="https://wsrv.nl/?url=https%3A%2F%2Fanlegermarkt.de%2Fwp-content%2Fuploads%2F2026%2F03%2FJensen-Huang-verneinte-Belege-fur-nach-China-umgeleitete-Nvidia-Chips-%E2%80%93.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The U.S. Justice Department did not conduct a formal investigation into Nvidia CEO Jensen Huang prior to his reinstatement, with Attorney General Todd Blanche instead clearing him based on separate ongoing probes into Super Micro and Megaspeed. While intelligence agencies gathered background information on a former executive, officials found no evidence warranting a direct counterintelligence or criminal probe of Huang himself.</p><p>The clearance follows intense scrutiny over chip export controls and compliance issues involving partner firms. Although President Donald Trump asserted that the department felt Huang was exonerated, Blanche largely sidestepped direct questions about the review during public appearances, leaving the official investigative status tied to the ongoing inquiries into Super Micro and Megaspeed.</p>
-<p>Nov 25 · <a href="https://www.reuters.com/business/us-justice-department-did-not-open-probe-into-jensen-huang-before-reinstatement-2026-11-25/">reuters.com</a></p>
 <br clear="all" />
 
 ---
