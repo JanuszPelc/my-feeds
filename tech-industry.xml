@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-11-27T17:32:00+00:00</updated>
+  <updated>2026-11-27T18:30:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Meta Faces Higher Liability Standards for Muse AI Agent U.K. Rollout</title>
+    <link href="https://www.politico.eu/article/metas-uk-rollout-for-muse-ai-agent-exposes-it-to-more-liability/" rel="alternate" />
+    <id>https://www.politico.eu/article/metas-uk-rollout-for-muse-ai-agent-exposes-it-to-more-liability/::v241</id>
+    <published>2026-11-27T18:30:00+00:00</published>
+    <updated>2026-11-27T18:30:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.mirrorreview.com%2Fwp-content%2Fuploads%2F2026%2F04%2FMetas-Muse-Spark-Turns-AI-Into-a-Multi-Agent-Problem-Solver.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.politico.eu/article/metas-uk-rollout-for-muse-ai-agent-exposes-it-to-more-liability/">politico.eu</a> | <a href="https://competitionandmarkets.blog.gov.uk/2026/11/24/cma-statement-on-uk-launch-of-meta-muse/">competitionandmarkets.blog.gov.uk</a></small></p><hr/><p>Meta’s terms of service for its Muse personal AI agent in the U.K. impose higher liability standards on the company compared to the U.S., following discussions with British regulators.</p><p>Unlike U.S. terms that cap liability at $250 and disclaim responsibility for erroneous actions, the U.K. terms lack a financial cap and reflect standard U.K. consumer law requirements for professional diligence, setting a potential precedent as personal AI agents expand globally.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.mirrorreview.com%2Fwp-content%2Fuploads%2F2026%2F04%2FMetas-Muse-Spark-Turns-AI-Into-a-Multi-Agent-Problem-Solver.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Nov 2026, 01:35 UTC | #28723</small>]]></content>
+  </entry>
   <entry>
     <title>Meituan Reports Second Consecutive Quarterly Profit</title>
     <link href="https://www.scmp.com/tech/big-tech/article/3376041/meituan-logs-second-straight-quarterly-profit-it-fends-alibaba-jd-instant-retail" rel="alternate" />

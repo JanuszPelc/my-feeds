@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Meta Faces Higher Liability Standards for Muse AI Agent U.K. Rollout</h2>
+<a name="story-28723"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.mirrorreview.com%2Fwp-content%2Fuploads%2F2026%2F04%2FMetas-Muse-Spark-Turns-AI-Into-a-Multi-Agent-Problem-Solver.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Meta’s terms of service for its Muse personal AI agent in the U.K. impose higher liability standards on the company compared to the U.S., following discussions with British regulators.</p><p>Unlike U.S. terms that cap liability at $250 and disclaim responsibility for erroneous actions, the U.K. terms lack a financial cap and reflect standard U.K. consumer law requirements for professional diligence, setting a potential precedent as personal AI agents expand globally.</p>
+<p>Nov 27 · <a href="https://www.politico.eu/article/metas-uk-rollout-for-muse-ai-agent-exposes-it-to-more-liability/">politico.eu</a> | <a href="https://competitionandmarkets.blog.gov.uk/2026/11/24/cma-statement-on-uk-launch-of-meta-muse/">competitionandmarkets.blog.gov.uk</a></p>
+<br clear="all" />
+
 <h2>Meituan Reports Second Consecutive Quarterly Profit</h2>
 <a name="story-28715"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.i-scmp.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F1020x680%2Fpublic%2Fd8%2Fimages%2Fcanvas%2F2026%2F11%2F27%2Fc4a80a6e-a528-41b8-a0f0-bada993ba2d2_cc6c2579.jpg%3Fitok%3Dzo-bPW5a%26v%3D1795770604&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Chinese food-delivery giant Meituan posted an adjusted net profit of 1.9 billion yuan (US$285.1 million) for the third quarter of 2026, marking its second consecutive profitable quarter. The result slightly missed analysts' expectations of 2.2 billion yuan but contrasted sharply with an adjusted net loss of 16 billion yuan reported a year earlier.</p><p>The return to profitability reflects an easing of China's prolonged food delivery price war following government intervention to curb aggressive subsidies. Despite the stabilizing market conditions, Meituan continues to face intense competition in the instant retail sector from rivals Alibaba Group Holding and JD.com.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-28587"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21r9sl%21%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc4f37436-ce30-4f7e-b598-617b688363f4_2064x1128.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Venture capital firm Andreessen Horowitz is in discussions to raise approximately $20 billion across its upcoming set of funds, according to sources familiar with the plans. The potential capital raise follows the firm's previous record-breaking $15 billion fundraise.</p><p>The push toward larger megafunds highlights the accelerating capital demands driven by artificial intelligence investments, which require larger and faster financial commitments. Venture firms are increasingly seeking massive capital pools to sustain investments in infrastructure and technology companies.</p>
 <p>Nov 25 · <a href="https://www.axios.com/pro/all-deals/2026/11/25/andreessen-horowitz-20b-fundraise">axios.com</a></p>
-<br clear="all" />
-
-<h2>ElevenLabs in Early Talks for 2027 Funding at $33 Billion Valuation</h2>
-<a name="story-28580"><img src="https://wsrv.nl/?url=https%3A%2F%2Fgetlatka.com%2Fmirror-assets%2Fblog%2Fwp-content%2Fuploads%2F2025%2F09%2FScreenshot-2025-09-13-at-1.19.08-PM.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>ElevenLabs is in early discussions for a funding round in early 2027 targeting a $33 billion valuation, up from its $22 billion valuation in September. The artificial intelligence voice model and agent developer has also seen its annual recurring revenue climb to $700 million.</p><p>The preliminary talks reflect strong investor interest and rapid commercial growth in the generative voice sector. While the formal process is anticipated for 2027, some investors have pushed for discussions to begin sooner.</p>
-<p>Nov 25 · <a href="https://www.bloomberg.com/news/articles/2026-11-25/elevenlabs-in-early-talks-for-2027-funding-at-33-billion-value">bloomberg.com</a></p>
 <br clear="all" />
 
 ---
