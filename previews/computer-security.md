@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Jan-Lukas Else Examines How AI Revitalized Self-Hosting</h2>
+<a name="story-28692"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.northflank.com%2Fself_hosting_ai_model_9279371abd.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Software developer Jan-Lukas Else reflects on how artificial intelligence has renewed his enthusiasm for self-hosting by significantly reducing the friction involved in managing server infrastructure. By using AI coding agents to interact with configuration files and Git repositories, he can experiment with new services and automation tools with minimal effort.</p><p>The author notes that AI makes complex technologies like NixOS and custom bootc images more approachable, allowing him to build custom tools and automate routine updates through Renovate and CI/CD pipelines. While acknowledging potential trade-offs such as increased maintenance and dependency management, Else emphasizes that the reduction in tedious work has made tinkering with home lab hardware enjoyable again.</p>
+<p>Nov 27 · <a href="https://janlukas.blog/posts/ai-self-hosting">janlukas.blog</a> | <a href="https://news.ycombinator.com/item?id=50660180">hacker news</a></p>
+<br clear="all" />
+
 <h2>SAP Investigates Security Incident After Attack on Development Infrastructure</h2>
 <a name="story-28726"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsecuritybridge.com%2Fwp-content%2Fuploads%2F2023%2F03%2FHow-to-detect-script-based-attacks-against-SAP-7-2048x885.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Enterprise software provider SAP has confirmed it is investigating a cybersecurity incident after threat actors targeted its development infrastructure on GitHub. According to internal communications reviewed by German media, attackers compromised employee authentication tokens to access, copy, and alter source code repositories.</p><p>In response to the breach, SAP has replaced signing keys, restricted access to GitHub, and temporarily halted automated development operations. The company stated that its ongoing investigation has found no evidence of unauthorized access to customer business data or that compromised code was integrated into shipped software.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-28439"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.cybernews.com%2Fimages%2F1024w%2F2026%2F01%2FMicrosoftOutageDowndetector.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Microsoft has initiated an internal Code Red directive to overhaul its prevention and response protocols for major service failures following a severe 24-hour Microsoft 365 outage. According to internal memos reviewed by Reuters, the company is fundamentally reassessing how it manages core service health and system reliability.</p><p>The unprecedented disruption underscored vulnerabilities in cloud infrastructure and prompted internal scrutiny over software deployment and testing practices. The overhaul aims to prevent a recurrence of widespread service failures that impact millions of enterprise and individual users worldwide.</p>
 <p>Nov 24 · <a href="https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/">reuters.com</a> | <a href="https://www.reddit.com/r/technology/comments/1y4jmb4/exclusivemicrosoft_declares_code_red_after/">r/technology</a> | <a href="https://news.ycombinator.com/item?id=50631157">hacker news</a></p>
-<br clear="all" />
-
-<h2>Hex.pm Details Security Incident and RCE Vulnerability</h2>
-<a name="story-28495"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcve.halosecurity.com%2Fcves%2FCVE-2026-44126%2Fog.png%3Fv%3D1780542952715-card-v6&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>On November 23, 2026, an unauthorized party exploited a remote code execution vulnerability in Hex.pm, sending 69 malicious requests that ran commands on six web servers before traffic was blocked within 20 minutes. The maintainers deployed a patch, rotated infrastructure credentials, and reported the incident to data protection and cybersecurity authorities.</p><p>The vulnerability, tracked as CVE-2026-129514, stems from a request decoder that accepted crafted Erlang structs containing module and function tuples, leading to command execution via error logging protocols. While an audit found no evidence of unauthorized package modifications or database write changes, database reads could not be ruled out, prompting the team to advise users to change passwords, reset two-factor authentication, and update their Hex clients.</p>
-<p>Nov 24 · <a href="https://hex.pm/blog/security-incident-on-hexpm">hex.pm</a> | <a href="https://lobste.rs/s/rfcgkx/security_incident_on_hex_pm">lobsters</a></p>
 <br clear="all" />
 
 ---

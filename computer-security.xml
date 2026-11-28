@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
   <entry>
+    <title>Jan-Lukas Else Examines How AI Revitalized Self-Hosting</title>
+    <link href="https://janlukas.blog/posts/ai-self-hosting" rel="alternate" />
+    <id>https://janlukas.blog/posts/ai-self-hosting::v241</id>
+    <published>2026-11-27T20:17:00+00:00</published>
+    <updated>2026-11-27T20:17:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fassets.northflank.com%2Fself_hosting_ai_model_9279371abd.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://janlukas.blog/posts/ai-self-hosting">janlukas.blog</a> | <a href="https://news.ycombinator.com/item?id=50660180">hacker news</a></small></p><hr/><p>Software developer Jan-Lukas Else reflects on how artificial intelligence has renewed his enthusiasm for self-hosting by significantly reducing the friction involved in managing server infrastructure. By using AI coding agents to interact with configuration files and Git repositories, he can experiment with new services and automation tools with minimal effort.</p><p>The author notes that AI makes complex technologies like NixOS and custom bootc images more approachable, allowing him to build custom tools and automate routine updates through Renovate and CI/CD pipelines. While acknowledging potential trade-offs such as increased maintenance and dependency management, Else emphasizes that the reduction in tedious work has made tinkering with home lab hardware enjoyable again.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.northflank.com%2Fself_hosting_ai_model_9279371abd.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Nov 2026, 06:48 UTC | #28692</small>]]></content>
+  </entry>
+  <entry>
     <title>SAP Investigates Security Incident After Attack on Development Infrastructure</title>
     <link href="https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised/" rel="alternate" />
     <id>https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised/::v241</id>
