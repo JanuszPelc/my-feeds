@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
+    <title>Paul Campbell Analyzes Unix V6 Context-Switch Comment 'You Are Not Expected to Understand This'</title>
+    <link href="https://www.taniwha.com/~paul/not.html" rel="alternate" />
+    <id>https://www.taniwha.com/~paul/not.html::v241</id>
+    <published>2026-11-27T21:39:00+00:00</published>
+    <updated>2026-11-27T21:39:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimage2.slideserve.com%2F4733275%2Fslide2-l.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.taniwha.com/~paul/not.html">taniwha.com</a> | <a href="https://lobste.rs/s/nkmtqk/understanding_you_are_not_expected">lobsters</a></small></p><hr/><p>Developer Paul Campbell provides a technical deep-dive into the infamous "You are not expected to understand this." comment in the Version 6 Unix process-switching code. Drawing on his experience porting Unix V6 to the Vax, he explains how the baroque architecture of early PDP-11 assembly routines—specifically `savu()`, `retu()`, and `aretu()`—managed process states and register restoration.</p><p>Campbell traces the exact execution path triggered when a swapped-out process resumes, detailing how the code restores previous stack and frame pointers before returning control to `newproc()`. By examining early C compiler constraints and register usage, the analysis demystifies the complex control flow behind the historical comment.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage2.slideserve.com%2F4733275%2Fslide2-l.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Nov 2026, 09:15 UTC | #28701</small>]]></content>
+  </entry>
+  <entry>
     <title>Why Optimistic UI Updates Are Corrosive to User Trust</title>
     <link href="https://datastar-instant-intent.ndyg.cross.stream/corrosive/" rel="alternate" />
     <id>https://datastar-instant-intent.ndyg.cross.stream/corrosive/::v241</id>
