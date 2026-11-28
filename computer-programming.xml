@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-27T18:24:00+00:00</updated>
+  <updated>2026-11-27T18:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Objections Filed Against Automattic .php TLD Application on ICANN Forum</title>
+    <link href="https://pub.roddie.digital/3n3aavxi6hc2g" rel="alternate" />
+    <id>https://pub.roddie.digital/3n3aavxi6hc2g::v241</id>
+    <published>2026-11-27T18:32:00+00:00</published>
+    <updated>2026-11-27T18:32:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.businessworld.in%2Fdsew%2B%281%29_20251225102732_original_image_34.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://pub.roddie.digital/3n3aavxi6hc2g">pub.roddie.digital</a> | <a href="https://newgtldprogram-acf.icann.org/comments">newgtldprogram-acf.icann.org</a> | <a href="https://lobste.rs/s/d0phlt/objections_php_application_being">lobsters</a></small></p><hr/><p>Public comments published on ICANN’s Application Comment Forum show growing opposition to Automattic’s bid to register .php as a generic top-level domain. Developers, security professionals, and community figures have submitted formal objections arguing against granting a single private company control over an established open-source language ecosystem.</p><p>Objectors warn that turning a ubiquitous file extension into a top-level domain introduces severe technical parsing conflicts and heightened phishing and impersonation risks. Critics also note that Automattic lacks governing authority over PHP—which is managed collectively through the PHP project and The PHP Foundation—raising concerns about inappropriate trademark appropriation and market confusion.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.businessworld.in%2Fdsew%2B%281%29_20251225102732_original_image_34.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Nov 2026, 01:47 UTC | #28747</small>]]></content>
+  </entry>
   <entry>
     <title>System76 Releases Pop!_OS 26.04 LTS</title>
     <link href="https://system76.com/blog/post/pop_os-26-04-lts-has-landed" rel="alternate" />

@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Objections Filed Against Automattic .php TLD Application on ICANN Forum</h2>
+<a name="story-28747"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.businessworld.in%2Fdsew%2B%281%29_20251225102732_original_image_34.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Public comments published on ICANN’s Application Comment Forum show growing opposition to Automattic’s bid to register .php as a generic top-level domain. Developers, security professionals, and community figures have submitted formal objections arguing against granting a single private company control over an established open-source language ecosystem.</p><p>Objectors warn that turning a ubiquitous file extension into a top-level domain introduces severe technical parsing conflicts and heightened phishing and impersonation risks. Critics also note that Automattic lacks governing authority over PHP—which is managed collectively through the PHP project and The PHP Foundation—raising concerns about inappropriate trademark appropriation and market confusion.</p>
+<p>Nov 27 · <a href="https://pub.roddie.digital/3n3aavxi6hc2g">pub.roddie.digital</a> | <a href="https://newgtldprogram-acf.icann.org/comments">newgtldprogram-acf.icann.org</a> | <a href="https://lobste.rs/s/d0phlt/objections_php_application_being">lobsters</a></p>
+<br clear="all" />
+
 <h2>System76 Releases Pop!_OS 26.04 LTS</h2>
 <a name="story-28744"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.prismic.io%2Fblog-system76%2F8sjSMljpgYn2bbU4_poptheme.jpg%3Fauto%3Dformat%2Ccompress%26w%3D1536%26h%3D962%26fm%3Djpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>System76 has released Pop!_OS 26.04 LTS, introducing a wide range of new features, accessibility improvements, and underlying performance enhancements built around the COSMIC desktop environment. The update focuses on streamlining user personalization and expanding hardware compatibility for modern workflows.</p><p>Key additions include "Constellations," which allow users to apply bundled themes with a single click, native drawing tablet support with tilt sensitivity, and configurable automatic updates. The release also brings a growing ecosystem of native applications, such as the redesigned COSMIC Store, COSMIC Viewer, and COSMIC System Monitor. Fresh installations are currently available, with direct upgrades from version 24.04 planned for rollout in December.</p>
@@ -86,12 +92,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>Nextcloud Releases Euro-Office-Powered Desktop App</h2>
 <p>Nextcloud has released the Nextcloud Office Desktop app, bringing its Euro-Office collaborative suite to Windows, macOS, and Linux. The free and open-source application includes editors for text documents, spreadsheets, presentations, and PDFs with high compatibility for both Microsoft Office and open document formats.</p><p>The app supports offline editing, local font integration, digital signatures, and file protection features like password encryption and permission controls. Users can connect the desktop app to their Nextcloud Hub instances to seamlessly access and co-edit files with team members in real time.</p>
 <p>Nov 26 · <a href="https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/">nextcloud.com</a> | <a href="https://news.ycombinator.com/item?id=50654289">hacker news</a></p>
-<br clear="all" />
-
-<h2>Tabc Container Runtime Executes Docker Containers in Browser Tabs</h2>
-<a name="story-28683"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffzakaria.com%2Fassets%2Fimages%2Ftabc-demo.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Tabc is an OCI-compliant container runtime that executes individual containers within separate browser tabs using a WebAssembly-compiled Linux kernel. Built on top of Pooya Parsa's unkernel project, the tool allows standard Docker and Docker Compose workflows to run directly in a browser without requiring a host Linux operating system or a dedicated virtual machine on macOS.</p><p>By leveraging Chromium's security sandbox, each container receives process and storage isolation without touching the host kernel, booting Alpine Linux images in under a second when reusing active browser sessions. While memory overhead is higher than native microVMs—costing roughly 540 megabytes of host memory per idle container—the approach eliminates the need for heavyweight Linux virtual machines on Apple Silicon and enables interactive terminal and web server integration directly through browser windows.</p>
-<p>Nov 26 · <a href="https://fzakaria.com/2026/11/25/browser-tabs-as-a-container-runtime">fzakaria.com</a> | <a href="https://lobste.rs/s/hge0sd/browser_tabs_as_container_runtime">lobsters</a></p>
 <br clear="all" />
 
 ---
