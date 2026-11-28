@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>UK Buy Nothing Day Campaign Promotes 24-Hour Consumer Detox</h2>
+<a name="story-28751"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.buynothingday.co.uk%2Fimages%2Fbuy-nothing-day-shop-less-live-more-cup6.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Buy Nothing Day is an international 24-hour event that invites individuals to take a break from consumerism and examine the environmental and ethical impacts of shopping. Initiated by Adbusters in the early 1990s and established in the UK in 2000, the campaign challenges consumer culture by encouraging people to spend a day without purchasing anything.</p><p>The UK initiative highlights specific issues associated with modern consumption, including single-use packaging waste, fast fashion's contribution to landfills, and the exploitation of labor in developing nations. Organizers emphasize that reducing consumption is more effective than recycling alone, urging participants to adopt sustainable habits and question the practices of major corporations.</p>
+<p>Nov 27 · <a href="https://www.buynothingday.co.uk/">buynothingday.co.uk</a> | <a href="https://news.ycombinator.com/item?id=50663261">hacker news</a></p>
+<br clear="all" />
+
 <h2>Minh-Anh Day Releases BounceMarket Prediction Game</h2>
 <a name="story-28741"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.drz.lazcdn.com%2Fstatic%2Fpk%2Fp%2F02a43aa04a21842c57223db76ad57a38.jpg_720x720q80.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>BounceMarket is a points-based prediction game created by developer Minh-Anh Day where players buy shares on opposing Left and Right sides. Share prices dynamically adjust based on purchase volume, and each winning share ultimately pays out one point.</p><p>Built at the Recurse Center, the project features a live balance tracker, a leaderboard, and a reset option. The game allows participants to test prediction strategies using virtual points within a dynamic market environment.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-28393"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.abijita.com%2Fwp-content%2Fuploads%2F2026%2F11%2FHX2FTbgXMAA0qYK-1200x675.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Sony Interactive Entertainment announced that Grand Theft Auto VI achieved the largest launch in PlayStation history following its release. During its opening window through November 22, 2026, the game drew over 39 million unique players on PlayStation 5 and set a new platform record for concurrent players.</p><p>Players cumulatively logged 683 million hours of gameplay during the launch period, averaging 17.4 hours per user exploring the state of Leonida. The historic release also drove a surge in new hardware activations, with Grand Theft Auto VI serving as the first game played on 70 percent of newly connected PlayStation 5 consoles.</p>
 <p>Nov 24 · <a href="https://blog.playstation.com/2026/11/23/thank-you-for-making-grand-theft-auto-vi-the-biggest-launch-in-playstation-history/">blog.playstation.com</a></p>
-<br clear="all" />
-
-<h2>Epic Games Revises Unreal Engine 6 Plans to Drop Blueprints and Actor Gameplay Framework</h2>
-<a name="story-28362"><img src="https://wsrv.nl/?url=https%3A%2F%2Fkajabi-storefronts-production.kajabi-cdn.com%2Fkajabi-storefronts-production%2Ffile-uploads%2Fsites%2F125332%2Fimages%2Fd6debd7-dcc0-a2c-eaa6-cf011553eda_ae8ea7b4-7811-4f5d-ba41-cdf92dbd668b.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Epic Games has reversed its previous strategy and will completely remove Blueprints and the Actor Gameplay Framework from Unreal Engine 6 at launch rather than phasing them out over time. Instead, the engine will center around Verse and a Scene Graph architecture, with Epic citing rapid advancements in AI tooling to automate or assist project conversion from Unreal Engine 5.</p><p>The decision represents a major shift for developers heavily reliant on Blueprints, which are widely utilized across the industry for scripting and game logic. Industry figures have noted that the pivot toward an AI-driven, prompt-based paradigm complicates cross-disciplinary collaboration, prompting some studios to announce plans to remain on Unreal Engine 5.</p>
-<p>Nov 23 · <a href="https://www.gamedeveloper.com/programming/unreal-engine-6-to-remove-blueprints-and-actor-gameplay-framework-from-the-beginning">gamedeveloper.com</a> | <a href="https://www.unrealengine.com/news/an-update-on-blueprints-and-the-path-to-ue6">unrealengine.com</a></p>
 <br clear="all" />
 
 ---

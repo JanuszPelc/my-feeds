@@ -3,9 +3,18 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-11-27T18:21:00+00:00</updated>
+  <updated>2026-11-27T20:05:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>UK Buy Nothing Day Campaign Promotes 24-Hour Consumer Detox</title>
+    <link href="https://www.buynothingday.co.uk/" rel="alternate" />
+    <id>https://www.buynothingday.co.uk/::v241</id>
+    <published>2026-11-27T20:05:00+00:00</published>
+    <updated>2026-11-27T20:05:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.buynothingday.co.uk%2Fimages%2Fbuy-nothing-day-shop-less-live-more-cup6.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.buynothingday.co.uk/">buynothingday.co.uk</a> | <a href="https://news.ycombinator.com/item?id=50663261">hacker news</a></small></p><hr/><p>Buy Nothing Day is an international 24-hour event that invites individuals to take a break from consumerism and examine the environmental and ethical impacts of shopping. Initiated by Adbusters in the early 1990s and established in the UK in 2000, the campaign challenges consumer culture by encouraging people to spend a day without purchasing anything.</p><p>The UK initiative highlights specific issues associated with modern consumption, including single-use packaging waste, fast fashion's contribution to landfills, and the exploitation of labor in developing nations. Organizers emphasize that reducing consumption is more effective than recycling alone, urging participants to adopt sustainable habits and question the practices of major corporations.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.buynothingday.co.uk%2Fimages%2Fbuy-nothing-day-shop-less-live-more-cup6.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Nov 2026, 04:45 UTC | #28751</small>]]></content>
+  </entry>
   <entry>
     <title>Minh-Anh Day Releases BounceMarket Prediction Game</title>
     <link href="https://bouncemarket.minhanhday.com/" rel="alternate" />
@@ -175,14 +184,5 @@
     <updated>2026-11-23T05:18:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmng.quest%2Fstatic%2Fpage-covers%2Ftutorial.d1d0d16aafd5.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://mng.quest/">mng.quest</a> | <a href="https://lobste.rs/s/2zhfms/marches_gnats_programming_challenges">lobsters</a></small></p><hr/><p>Marches &amp; Gnats is a browser-based coding puzzle game inspired by Advent of Code and built around a single-tape Turing machine. Set in 19th-century Estonia, the game tasks players with writing instructions for the Logic Mill to help a character named Mihkel across 46 distinct quests.</p><p>The project incorporates leaderboards and features integration for AI agents designed to attempt the programming challenges. Players and enthusiasts can track ongoing updates and discussions through the game's official Substack, Reddit, Discord, and X channels.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmng.quest%2Fstatic%2Fpage-covers%2Ftutorial.d1d0d16aafd5.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>23 Nov 2026, 12:41 UTC | #28311</small>]]></content>
-  </entry>
-  <entry>
-    <title>Nicholas Lund Tracks All 60 Bird Species in Grand Theft Auto VI</title>
-    <link href="https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife" rel="alternate" />
-    <id>https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife::v241</id>
-    <published>2026-11-22T21:21:00+00:00</published>
-    <updated>2026-11-22T21:21:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.gracza.pl%2Fi%2Fh%2F22%2F532274075.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife">audubon.org</a> | <a href="https://news.ycombinator.com/item?id=50602843">hacker news</a></small></p><hr/><p>Audubon writer Nicholas Lund tracked down and documented all 60 bird species available in the newly released video game Grand Theft Auto VI, exploring how Rockstar Games recreated South Florida's ecosystems and wildlife mechanics.</p><p>Using in-game binoculars to study birds across coastal wetlands, northern forests, and urban environments, Lund noted both ecological fidelity and geographical quirks, contrasting the virtual birding experience with the franchise's signature chaos.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.gracza.pl%2Fi%2Fh%2F22%2F532274075.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>23 Nov 2026, 03:44 UTC | #28278</small>]]></content>
   </entry>
 </feed>
