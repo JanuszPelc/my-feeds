@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
+    <title>Mark Hopkins's Analysis Argues x86 Opcodes Are Coded in Octal</title>
+    <link href="https://gist.github.com/seanjensengrey/f971c20d05d4d0efc0781f2f3c0353da" rel="alternate" />
+    <id>https://gist.github.com/seanjensengrey/f971c20d05d4d0efc0781f2f3c0353da::v241</id>
+    <published>2026-11-27T23:33:00+00:00</published>
+    <updated>2026-11-27T23:33:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimgv2-1-f.scribdassets.com%2Fimg%2Fdocument%2F306939815%2Foriginal%2F1b5c781df8%2F1%3Fv%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://gist.github.com/seanjensengrey/f971c20d05d4d0efc0781f2f3c0353da">gist.github.com</a> | <a href="https://lobste.rs/s/kikmfz/x86_is_octal_machine">lobsters</a></small></p><hr/><p>Originally posted to Usenet in the 1990s by Mark Hopkins, this instructional essay argues that all 80x86 processor opcodes and instruction encodings are fundamentally structured in octal rather than hexadecimal or binary. The text details how bytes can be broken down into three octal digits ranging from 000 to 377, where each group corresponds to specific operation types inherited from earlier 8080, 8085, and Z80 architectures.</p><p>The document provides a comprehensive breakdown of 16-bit and 32-bit addressing modes, register assignments, segment registers, and arithmetic instructions across the 8086 through 80486 processor generations. By recognizing the underlying octal framework, the author demonstrates how programmers can more easily memorize and decode x86 machine language without relying strictly on complex reference tables.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimgv2-1-f.scribdassets.com%2Fimg%2Fdocument%2F306939815%2Foriginal%2F1b5c781df8%2F1%3Fv%3D1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Nov 2026, 11:28 UTC | #28764</small>]]></content>
+  </entry>
+  <entry>
     <title>Paul Campbell Analyzes Unix V6 Context-Switch Comment 'You Are Not Expected to Understand This'</title>
     <link href="https://www.taniwha.com/~paul/not.html" rel="alternate" />
     <id>https://www.taniwha.com/~paul/not.html::v241</id>
