@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Allstate Suffers Nationwide Website and App Outage</h2>
+<a name="story-28743"><img src="https://wsrv.nl/?url=https%3A%2F%2Fswikblog.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fdownload-2026-11-27T234143.355-1024x1024.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Allstate has experienced a multiday technology outage affecting its website and mobile application since November 23, disrupting customer access during a major travel week. The insurance company has not publicly disclosed the cause of the system failures.</p><p>The nationwide disruption has drawn scrutiny from state officials, with Oklahoma House Insurance Committee leaders calling on the company to ensure policyholders are not penalized or left without coverage during the outage. Customers have faced difficulties managing claims, payments, and policy details while digital services remain offline.</p>
+<p>Nov 27 · <a href="https://www.wsj.com/finance/allstate-joins-growing-list-of-companies-hit-by-tech-outages-77dbb488?st=h32XJK&reflink=desktopwebshare_permalink">wsj.com</a></p>
+<br clear="all" />
+
 <h2>Jan-Lukas Else Examines How AI Revitalized Self-Hosting</h2>
 <a name="story-28692"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.northflank.com%2Fself_hosting_ai_model_9279371abd.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Software developer Jan-Lukas Else reflects on how artificial intelligence has renewed his enthusiasm for self-hosting by significantly reducing the friction involved in managing server infrastructure. By using AI coding agents to interact with configuration files and Git repositories, he can experiment with new services and automation tools with minimal effort.</p><p>The author notes that AI makes complex technologies like NixOS and custom bootc images more approachable, allowing him to build custom tools and automate routine updates through Renovate and CI/CD pipelines. While acknowledging potential trade-offs such as increased maintenance and dependency management, Else emphasizes that the reduction in tedious work has made tinkering with home lab hardware enjoyable again.</p>
@@ -89,12 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-28473"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.cyberkendra.com%2Fwp-content%2Fuploads%2F2026%2F11%2FCJVZKXG7KZLFJANZIKPDYWJD4U.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Central Intelligence Agency and the Office of the Director of National Intelligence recently discovered a cybersecurity breach affecting an open-source intelligence analysis system. The intrusion resulted in the exposure of unclassified information, while classified networks reportedly remained unaffected.</p><p>According to sources familiar with the matter, hackers likely utilized an artificial intelligence tool known as Artex during the operation. The incident highlights heightened security concerns regarding intelligence networks that process public and commercially available data.</p>
 <p>Nov 25 · <a href="https://www.nytimes.com/2026/11/24/us/politics/spy-agencies-computer-network-breaches.html?unlocked_article_code=1.S1E.8Ak8.1m2taItvN8OT&smid=url-share">nytimes.com</a> | <a href="https://www.reddit.com/r/technology/comments/1y4q41p/cia_hit_by_hack_impacting_unclassified/">r/technology</a></p>
-<br clear="all" />
-
-<h2>Microsoft Declares Code Red Following Major Microsoft 365 Outage</h2>
-<a name="story-28439"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.cybernews.com%2Fimages%2F1024w%2F2026%2F01%2FMicrosoftOutageDowndetector.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Microsoft has initiated an internal Code Red directive to overhaul its prevention and response protocols for major service failures following a severe 24-hour Microsoft 365 outage. According to internal memos reviewed by Reuters, the company is fundamentally reassessing how it manages core service health and system reliability.</p><p>The unprecedented disruption underscored vulnerabilities in cloud infrastructure and prompted internal scrutiny over software deployment and testing practices. The overhaul aims to prevent a recurrence of widespread service failures that impact millions of enterprise and individual users worldwide.</p>
-<p>Nov 24 · <a href="https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/">reuters.com</a> | <a href="https://www.reddit.com/r/technology/comments/1y4jmb4/exclusivemicrosoft_declares_code_red_after/">r/technology</a> | <a href="https://news.ycombinator.com/item?id=50631157">hacker news</a></p>
 <br clear="all" />
 
 ---
