@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-11-27T18:27:00+00:00</updated>
+  <updated>2026-11-27T18:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>SAP Investigates Security Incident After Attack on Development Infrastructure</title>
+    <link href="https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised/" rel="alternate" />
+    <id>https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised/::v241</id>
+    <published>2026-11-27T18:33:00+00:00</published>
+    <updated>2026-11-27T18:33:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fsecuritybridge.com%2Fwp-content%2Fuploads%2F2023%2F03%2FHow-to-detect-script-based-attacks-against-SAP-7-2048x885.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised/">securityweek.com</a></small></p><hr/><p>Enterprise software provider SAP has confirmed it is investigating a cybersecurity incident after threat actors targeted its development infrastructure on GitHub. According to internal communications reviewed by German media, attackers compromised employee authentication tokens to access, copy, and alter source code repositories.</p><p>In response to the breach, SAP has replaced signing keys, restricted access to GitHub, and temporarily halted automated development operations. The company stated that its ongoing investigation has found no evidence of unauthorized access to customer business data or that compromised code was integrated into shipped software.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fsecuritybridge.com%2Fwp-content%2Fuploads%2F2023%2F03%2FHow-to-detect-script-based-attacks-against-SAP-7-2048x885.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Nov 2026, 02:43 UTC | #28726</small>]]></content>
+  </entry>
   <entry>
     <title>WebRTC Card-Skimming Scripts Discovered on Major Retailer Checkout Pages Ahead of Black Friday</title>
     <link href="https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer" rel="alternate" />
