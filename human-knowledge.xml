@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-11-27T14:33:00+00:00</updated>
+  <updated>2026-11-27T20:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Michael Nielsen Takes Down "Neural Networks and Deep Learning" Book Over AI Risk Concerns</title>
+    <link href="https://neuralnetworksanddeeplearning.com/" rel="alternate" />
+    <id>https://neuralnetworksanddeeplearning.com/::v241</id>
+    <published>2026-11-27T20:11:00+00:00</published>
+    <updated>2026-11-27T20:11:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpobierak.jeja.pl%2Fimages%2Fe%2F5%2F6%2F849319_jeden-rabin-powie-tak-a-drugi-powie.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://neuralnetworksanddeeplearning.com/">neuralnetworksanddeeplearning.com</a> | <a href="https://news.ycombinator.com/item?id=50670757">hacker news</a></small></p><hr/><p>Michael Nielsen has removed his foundational online book, Neural Networks and Deep Learning, stating that he no longer wishes to help train people to contribute to frontier artificial intelligence work. He explained that his views on artificial general intelligence timescales and existential risks have drastically shifted due to the rapid acceleration of frontier labs and massive capital deployment, which he believes threaten humanity with potential catastrophe.</p><p>In an accompanying essay, Nielsen challenges the ethical justifications used by researchers at frontier AI labs, arguing that claims of mitigating risk from within are undermined by relentless scaling and broken safety commitments. He contends that the fundamental threat lies in discovering powerful, destructive technologies faster than social institutions can adapt, concluding that employment at frontier labs is an untenable choice and urging practitioners to oppose them.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpobierak.jeja.pl%2Fimages%2Fe%2F5%2F6%2F849319_jeden-rabin-powie-tak-a-drugi-powie.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Nov 2026, 06:14 UTC | #28754</small>]]></content>
+  </entry>
   <entry>
     <title>Dr. Arne Babenhauserheide Proposes Measures to Curb AI Impact on EU Software Development</title>
     <link href="https://www.draketo.de/software/curb-ai-impact" rel="alternate" />
