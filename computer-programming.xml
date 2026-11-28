@@ -3,7 +3,7 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-27T20:02:00+00:00</updated>
+  <updated>2026-11-28T06:59:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
@@ -116,9 +116,9 @@
     <link href="https://quin.fyi/posts/how-winhelp-files-work.html" rel="alternate" />
     <id>https://quin.fyi/posts/how-winhelp-files-work.html::v241</id>
     <published>2026-11-26T23:43:00+00:00</published>
-    <updated>2026-11-26T23:43:00+00:00</updated>
+    <updated>2026-11-28T06:59:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.helpndoc.com%2Fnews-and-articles%2F2023-10-31-revitalize-your-help-files-converting-legacy-winhelp-hlp-to-modern-documentation-with-helpndoc%2Fimages%2Fimport-winhelp-hlp-file.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://quin.fyi/posts/how-winhelp-files-work.html">quin.fyi</a> | <a href="https://lobste.rs/s/w4kxiz/how_winhelp_files_work">lobsters</a></small></p><hr/><p>The author developed libhlp, a pure-Rust reader designed to open legacy Windows Help (.hlp) files. Because Microsoft never officially documented the format, the implementation relies on reverse-engineered specifications by Manfred Winterhoff and analysis of real help files to understand the internal directory structure, text compression schemes, and topic storage mechanisms.</p><p>The library handles multiple iterations of the format, from early Windows 3.0 uncompressed blocks to later Windows 95 versions utilizing LZ77 and Hall phrase compression. It also accounts for specialized encoding hurdles, such as case-insensitive context-string hashing for links, font-index mapping for styling, and variable-length index decoding quirks.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.helpndoc.com%2Fnews-and-articles%2F2023-10-31-revitalize-your-help-files-converting-legacy-winhelp-hlp-to-modern-documentation-with-helpndoc%2Fimages%2Fimport-winhelp-hlp-file.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Nov 2026, 06:16 UTC | #28691</small>]]></content>
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://quin.fyi/posts/how-winhelp-files-work.html">quin.fyi</a> | <a href="https://lobste.rs/s/w4kxiz/how_winhelp_files_work">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50654773">hacker news</a></small></p><hr/><p>The author developed libhlp, a pure-Rust reader designed to open legacy Windows Help (.hlp) files. Because Microsoft never officially documented the format, the implementation relies on reverse-engineered specifications by Manfred Winterhoff and analysis of real help files to understand the internal directory structure, text compression schemes, and topic storage mechanisms.</p><p>The library handles multiple iterations of the format, from early Windows 3.0 uncompressed blocks to later Windows 95 versions utilizing LZ77 and Hall phrase compression. It also accounts for specialized encoding hurdles, such as case-insensitive context-string hashing for links, font-index mapping for styling, and variable-length index decoding quirks.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.helpndoc.com%2Fnews-and-articles%2F2023-10-31-revitalize-your-help-files-converting-legacy-winhelp-hlp-to-modern-documentation-with-helpndoc%2Fimages%2Fimport-winhelp-hlp-file.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Nov 2026, 06:16 UTC | #28691</small>]]></content>
   </entry>
   <entry>
     <title>Rust Lock Poisoning Defended in Blog Post</title>

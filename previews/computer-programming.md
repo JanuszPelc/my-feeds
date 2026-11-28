@@ -80,7 +80,7 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>Developer Builds libhlp, a Pure-Rust Reader for Legacy WinHelp Files</h2>
 <a name="story-28691"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.helpndoc.com%2Fnews-and-articles%2F2023-10-31-revitalize-your-help-files-converting-legacy-winhelp-hlp-to-modern-documentation-with-helpndoc%2Fimages%2Fimport-winhelp-hlp-file.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The author developed libhlp, a pure-Rust reader designed to open legacy Windows Help (.hlp) files. Because Microsoft never officially documented the format, the implementation relies on reverse-engineered specifications by Manfred Winterhoff and analysis of real help files to understand the internal directory structure, text compression schemes, and topic storage mechanisms.</p><p>The library handles multiple iterations of the format, from early Windows 3.0 uncompressed blocks to later Windows 95 versions utilizing LZ77 and Hall phrase compression. It also accounts for specialized encoding hurdles, such as case-insensitive context-string hashing for links, font-index mapping for styling, and variable-length index decoding quirks.</p>
-<p>Nov 26 · <a href="https://quin.fyi/posts/how-winhelp-files-work.html">quin.fyi</a> | <a href="https://lobste.rs/s/w4kxiz/how_winhelp_files_work">lobsters</a></p>
+<p>Nov 26 · <a href="https://quin.fyi/posts/how-winhelp-files-work.html">quin.fyi</a> | <a href="https://lobste.rs/s/w4kxiz/how_winhelp_files_work">lobsters</a> | <a href="https://news.ycombinator.com/item?id=50654773">hacker news</a></p>
 <br clear="all" />
 
 <h2>Rust Lock Poisoning Defended in Blog Post</h2>
