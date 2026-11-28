@@ -8,6 +8,12 @@
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Verizon in Talks to Acquire Fidium Fiber for $6 Billion</h2>
+<a name="story-28735"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Fny%2Fapi%2Fres%2F1.2%2FXOrjRcQy2UZJx6mt4D7G_g--%2FYXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTk2MA--%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness-wire.com%2Feaf09523acd2d562e93af240060099a4&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Verizon is reportedly in discussions to acquire fiber-optic broadband operator Fidium for approximately $6 billion. The potential transaction involves the company owned by Searchlight Capital and Canada's BCI, supporting Verizon's broader strategy to expand its network reach across the United States.</p><p>Fidium operates as a fiber broadband provider with a significant presence in the New England region. If finalized, the acquisition would further bolster Verizon's footprint as the telecommunications company works toward its target of delivering network access to 50 million homes and businesses.</p>
+<p>Nov 27 · <a href="https://www.ft.com/content/19c8508b-0dc6-492c-9f68-497da516a398">ft.com</a></p>
+<br clear="all" />
+
 <h2>Altair Semiconductor Raises $100 Million in Series A Funding</h2>
 <a name="story-28667"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.wccftech.com%2Fwp-content%2Fuploads%2F2020%2F07%2FALTAIR-ALT1250-5G-CAT-M-CHIPSET-1030x671.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Altair Semiconductor has raised $100 million in a Series A funding round led by Maverick Silicon, with participation from Pitango. The capital will support the mass production of the Israeli chipmaker's ALT1550 low-power 5G modem, which is scheduled to begin in 2027, as well as the expansion of its operations across North America, Europe, and Asia.</p><p>The independent chipmaker, which was spun off from Sony earlier this year, is targeting the emerging market for edge AI devices such as smart glasses and wearables. These devices require continuous cloud connectivity and low power consumption without depending on a smartphone, presenting unique engineering challenges that Altair's multi-standard modem platform aims to solve.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-28485"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FbnJVQdMkFHUddjVeGAeNdR.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>An on-chain investigation highlights suspicious trading activity on Polymarket involving a newly created wallet that heavily wagered on Jensen Huang returning as NVIDIA CEO hours before any public announcements. The account accumulated over 71,000 shares at low odds in the middle of the night, just before Donald Trump publicly endorsed Huang's return on social media and NVIDIA officially confirmed his reinstatement.</p><p>The transactions were executed in a concentrated burst that absorbed roughly a third of the contract's available sell liquidity using a fresh proxy address with no prior transaction history. While the wallet's anonymity prevents definitive proof of illicit activity, the precise timing and single-market focus illustrate how decentralized prediction markets can expose severe information asymmetries.</p>
 <p>Nov 24 · <a href="https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/">deucalionn.vercel.app</a> | <a href="https://news.ycombinator.com/item?id=50626578">hacker news</a></p>
-<br clear="all" />
-
-<h2>Supertake Raises $20 Million in Seed Funding for AI Investment Platform</h2>
-<a name="story-28368"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F11%2Fsupertake-product.jpg%3Fw%3D680&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>AI investing startup Supertake has raised $20 million in seed funding led by Adjacent, with participation from Coinbase Ventures, Union Square Ventures, and various angel investors. Incubated by USV, the company uses frontier AI models and trading agents to translate natural language market predictions into custom stock portfolios connected to brokerages like Robinhood and Coinbase.</p><p>The company has appointed former Coinbase AI leaders Lincoln Murr as CEO and John Peterson as CTO, while founder Michael Mignano transitions to executive chairman. Supertake plans to use the new capital to expand its engineering, design, and growth teams while implementing safety guardrails such as spending limits and asset allowlists to manage risks associated with automated trading.</p>
-<p>Nov 23 · <a href="https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/">techcrunch.com</a></p>
 <br clear="all" />
 
 ---

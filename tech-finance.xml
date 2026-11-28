@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-11-26T20:18:00+00:00</updated>
+  <updated>2026-11-27T20:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Verizon in Talks to Acquire Fidium Fiber for $6 Billion</title>
+    <link href="https://www.ft.com/content/19c8508b-0dc6-492c-9f68-497da516a398" rel="alternate" />
+    <id>https://www.ft.com/content/19c8508b-0dc6-492c-9f68-497da516a398::v241</id>
+    <published>2026-11-27T20:06:00+00:00</published>
+    <updated>2026-11-27T20:06:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Fny%2Fapi%2Fres%2F1.2%2FXOrjRcQy2UZJx6mt4D7G_g--%2FYXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTk2MA--%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness-wire.com%2Feaf09523acd2d562e93af240060099a4&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.ft.com/content/19c8508b-0dc6-492c-9f68-497da516a398">ft.com</a></small></p><hr/><p>Verizon is reportedly in discussions to acquire fiber-optic broadband operator Fidium for approximately $6 billion. The potential transaction involves the company owned by Searchlight Capital and Canada's BCI, supporting Verizon's broader strategy to expand its network reach across the United States.</p><p>Fidium operates as a fiber broadband provider with a significant presence in the New England region. If finalized, the acquisition would further bolster Verizon's footprint as the telecommunications company works toward its target of delivering network access to 50 million homes and businesses.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Fny%2Fapi%2Fres%2F1.2%2FXOrjRcQy2UZJx6mt4D7G_g--%2FYXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTk2MA--%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness-wire.com%2Feaf09523acd2d562e93af240060099a4&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Nov 2026, 04:56 UTC | #28735</small>]]></content>
+  </entry>
   <entry>
     <title>Altair Semiconductor Raises $100 Million in Series A Funding</title>
     <link href="https://www.calcalistech.com/ctechnews/article/m3h4xzamw" rel="alternate" />
