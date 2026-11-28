@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-11-27T18:22:00+00:00</updated>
+  <updated>2026-11-27T18:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>System76 Releases Pop!_OS 26.04 LTS</title>
+    <link href="https://system76.com/blog/post/pop_os-26-04-lts-has-landed" rel="alternate" />
+    <id>https://system76.com/blog/post/pop_os-26-04-lts-has-landed::v241</id>
+    <published>2026-11-27T18:24:00+00:00</published>
+    <updated>2026-11-27T18:24:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimages.prismic.io%2Fblog-system76%2F8sjSMljpgYn2bbU4_poptheme.jpg%3Fauto%3Dformat%2Ccompress%26w%3D1536%26h%3D962%26fm%3Djpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://system76.com/blog/post/pop_os-26-04-lts-has-landed">system76.com</a> | <a href="https://lobste.rs/s/hizg2w/pop_os_26_04_lts_has_landed">lobsters</a></small></p><hr/><p>System76 has released Pop!_OS 26.04 LTS, introducing a wide range of new features, accessibility improvements, and underlying performance enhancements built around the COSMIC desktop environment. The update focuses on streamlining user personalization and expanding hardware compatibility for modern workflows.</p><p>Key additions include "Constellations," which allow users to apply bundled themes with a single click, native drawing tablet support with tilt sensitivity, and configurable automatic updates. The release also brings a growing ecosystem of native applications, such as the redesigned COSMIC Store, COSMIC Viewer, and COSMIC System Monitor. Fresh installations are currently available, with direct upgrades from version 24.04 planned for rollout in December.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.prismic.io%2Fblog-system76%2F8sjSMljpgYn2bbU4_poptheme.jpg%3Fauto%3Dformat%2Ccompress%26w%3D1536%26h%3D962%26fm%3Djpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Nov 2026, 00:04 UTC | #28744</small>]]></content>
+  </entry>
   <entry>
     <title>Build Your Own Paint Rust Programming Tutorial Released</title>
     <link href="https://www.buildyourownpaint.com/en" rel="alternate" />
